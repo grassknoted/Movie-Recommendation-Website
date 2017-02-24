@@ -1,0 +1,987 @@
+,Name,Genre,Director,Cast
+0,The Shawshank Redemption,Crime/Drama,Frank Darabont,Tim Robbins/Morgan Freeman
+1,The Godfather,Crime/Drama,Francis Ford Coppola,Marlon Brando/Al Pacino
+2,"The Godfather, Part II",Crime/Drama,Francis Ford Coppola,Al Pacino/Robert De Niro
+3,The Dark Knight,Action/Crime/Drama,Christopher Nolan,Christian Bale/Heath Ledger
+4,"The Good, the Bad and the Ugly",Western,Sergio Leone,Clint Eastwood/Eli Wallach
+5,Pulp Fiction,Crime/Drama,Quentin Tarantino,John Travolta/Uma Thurman
+6,12 Angry Men,Crime/Drama,Sidney Lumet,Henry Fonda/Lee J. Cobb
+7,Schindler's List,Biography/Drama/History,Steven Spielberg,Liam Neeson/Ralph Fiennes
+8,Fight Club,Drama,David Fincher,Brad Pitt/Edward Norton
+9,The Lord of the Rings: The Fellowship of the Ring,Adventure/Drama/Fantasy,Peter Jackson,Elijah Wood/Ian McKellen
+10,Inception,Action/Adventure/Sci-Fi,Christopher Nolan,Leonardo DiCaprio/Joseph Gordon-Levitt
+11,Star Wars: Episode V - The Empire Strikes Back,Action/Adventure/Fantasy,Irvin Kershner,Mark Hamill/Harrison Ford
+12,Forrest Gump,Comedy/Drama,Robert Zemeckis,Tom Hanks/Robin Wright
+13,One Flew Over the Cuckoo's Nest,Drama,Milos Forman,Jack Nicholson/Louise Fletcher
+14,Seven Samurai,Action/Adventure/Drama,Akira Kurosawa,Toshirô Mifune/Takashi Shimura
+15,The Lord of the Rings: The Two Towers,Adventure/Drama/Fantasy,Peter Jackson,Elijah Wood/Ian McKellen
+16,Goodfellas,Biography/Crime/Drama,Martin Scorsese,Robert De Niro/Ray Liotta
+17,Star Wars: Episode IV - A New Hope,Action/Adventure/Fantasy,George Lucas,Mark Hamill/Harrison Ford
+18,The Matrix,Action/Sci-Fi,Lana Wachowski,Keanu Reeves/Laurence Fishburne
+19,City of God,Crime/Drama,Fernando Meirelles,Alexandre Rodrigues/Matheus Nachtergaele
+20,Once Upon a Time in the West,Western,Sergio Leone,Henry Fonda/Charles Bronson
+21,It's a Wonderful Life,Drama/Family/Fantasy,Frank Capra,James Stewart/Donna Reed
+22,The Usual Suspects,Crime/Drama/Mystery,Bryan Singer,Kevin Spacey/Gabriel Byrne
+23,Se7en,Crime/Drama/Mystery,David Fincher,Morgan Freeman/Brad Pitt
+24,City Lights,Drama/Thriller,Hansal Mehta,Rajkummar Rao/Mallhar Goenka
+25,Léon: The Professional,Crime/Drama/Thriller,Luc Besson,Jean Reno/Gary Oldman
+26,Casablanca,Drama/Romance/War,Michael Curtiz,Humphrey Bogart/Ingrid Bergman
+27,The Silence of the Lambs,Crime/Drama/Thriller,Jonathan Demme,Jodie Foster/Anthony Hopkins
+28,Life Is Beautiful,Comedy/Drama/War,Roberto Benigni,Roberto Benigni/Nicoletta Braschi
+29,The Intouchables,Biography/Comedy/Drama,Olivier Nakache,François Cluzet/Omar Sy
+30,Spirited Away,Animation/Adventure/Family,Hayao Miyazaki,Daveigh Chase/Suzanne Pleshette
+31,Raiders of the Lost Ark,Action/Adventure,Steven Spielberg,Harrison Ford/Karen Allen
+32,Rang De Basanti,Comedy/Drama/History,Rakeysh Omprakash Mehra,Aamir Khan/Soha Ali Khan
+33,Rear Window,Mystery/Thriller,Alfred Hitchcock,James Stewart/Grace Kelly
+34,The Dark Knight Rises,Action/Thriller,Christopher Nolan,Christian Bale/Tom Hardy
+35,American History X,Crime/Drama,Tony Kaye,Edward Norton/Edward Furlong
+36,Modern Times,Comedy/Drama/Family,Charles Chaplin,Charles Chaplin/Paulette Goddard
+37,Psycho,Horror/Mystery/Thriller,Alfred Hitchcock,Anthony Perkins/Janet Leigh
+38,Like Stars on Earth,Drama/Family/Music,Aamir Khan,Darsheel Safary/Aamir Khan
+39,Sunset Boulevard,Drama/Film-Noir,Billy Wilder,William Holden/Gloria Swanson
+40,Saving Private Ryan,Action/Drama/War,Steven Spielberg,Tom Hanks/Matt Damon
+41,The Wolf of Wall Street,Biography/Comedy/Crime,Martin Scorsese,Leonardo DiCaprio/Jonah Hill
+42,Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb,Comedy,Stanley Kubrick,Peter Sellers/George C. Scott
+43,Memento,Mystery/Thriller,Christopher Nolan,Guy Pearce/Carrie-Anne Moss
+44,Terminator 2: Judgment Day,Action/Sci-Fi/Thriller,James Cameron,Arnold Schwarzenegger/Linda Hamilton
+45,Cinema Paradiso,Drama,Giuseppe Tornatore,Philippe Noiret/Enzo Cannavale
+46,The Pianist,Biography/Drama/War,Roman Polanski,Adrien Brody/Thomas Kretschmann
+47,Apocalypse Now,Drama/War,Francis Ford Coppola,Martin Sheen/Marlon Brando
+48,Django Unchained,Drama/Western,Quentin Tarantino,Jamie Foxx/Christoph Waltz
+49,The Green Mile,Crime/Drama/Fantasy,Frank Darabont,Tom Hanks/Michael Clarke Duncan
+50,The Great Dictator,Comedy/Drama/War,Charles Chaplin,Charles Chaplin/Paulette Goddard
+51,The Departed,Crime/Drama/Thriller,Martin Scorsese,Leonardo DiCaprio/Matt Damon
+52,Gladiator,Action/Adventure/Drama,Ridley Scott,Russell Crowe/Joaquin Phoenix
+53,The Lives of Others,Drama/Thriller,Florian Henckel von Donnersmarck,Ulrich Mühe/Martina Gedeck
+54,Paths of Glory,Drama/War,Stanley Kubrick,Kirk Douglas/Ralph Meeker
+55,Back to the Future,Adventure/Comedy/Sci-Fi,Robert Zemeckis,Michael J. Fox/Christopher Lloyd
+56,Alien,Horror/Sci-Fi,Ridley Scott,Sigourney Weaver/Tom Skerritt
+57,The Prestige,Drama/Mystery/Sci-Fi,Christopher Nolan,Christian Bale/Hugh Jackman
+58,A Separation,Drama/Mystery,Asghar Farhadi,Peyman Moaadi/Leila Hatami
+59,Amélie,Comedy/Romance,Jean-Pierre Jeunet,Audrey Tautou/Mathieu Kassovitz
+60,M 1931,Crime/Drama/Mystery,Fritz Lang,Peter Lorre/Ellen Widmann
+61,3 Idiots,Comedy/Drama,Rajkumar Hirani,Aamir Khan/Madhavan
+62,North by Northwest,Action/Adventure/Crime,Alfred Hitchcock,Cary Grant/Eva Marie Saint
+63,The Lion King,Animation/Adventure/Drama,Roger Allers,Matthew Broderick/Jeremy Irons
+64,The Shining,Drama/Horror,Stanley Kubrick,Jack Nicholson/Shelley Duvall
+65,Wall-E,Animation/Adventure/Family,Andrew Stanton,Ben Burtt/Elissa Knight
+66,Grave of the Fireflies,Animation/Drama/War,Isao Takahata,Tsutomu Tatsumi/Ayano Shiraishi
+67,Double Indemnity,Crime/Drama/Film-Noir,Billy Wilder,Fred MacMurray/Barbara Stanwyck
+68,Das Boot,Adventure/Drama/Thriller,Wolfgang Petersen,Jürgen Prochnow/Herbert Grönemeyer
+69,American Beauty,Drama/Romance,Sam Mendes,Kevin Spacey/Annette Bening
+70,Witness for the Prosecution (1957),Crime/Drama/Mystery,Billy Wilder,Tyrone Power/Marlene Dietrich
+71,Citizen Kane,Drama/Mystery,Orson Welles,Orson Welles/Joseph Cotten
+72,12 Years a Slave,Biography/Drama/History,Steve McQueen,Chiwetel Ejiofor/Michael Kenneth Williams
+73,Toy Story 3,Animation/Adventure/Comedy,Lee Unkrich,Tom Hanks/Tim Allen
+74,Vertigo,Mystery/Romance/Thriller,Alfred Hitchcock,James Stewart/Kim Novak
+75,Aliens,Action/Adventure/Sci-Fi,James Cameron,Sigourney Weaver/Michael Biehn
+76,Princess Mononoke,Animation/Adventure/Fantasy,Hayao Miyazaki,Yôji Matsuda/Yuriko Ishida
+77,Her,Drama/Romance/Sci-Fi,Spike Jonze,Joaquin Phoenix/Amy Adams
+78,To Kill a Mockingbird (1962),Crime/Drama,Robert Mulligan,Gregory Peck/John Megna
+79,Once Upon a Time in America,Crime/Drama,Sergio Leone,Robert De Niro/James Woods
+80,Oldboy,Action/Drama/Mystery,Spike Lee,Josh Brolin/Elizabeth Olsen
+81,A Clockwork Orange,Crime/Drama/Sci-Fi,Stanley Kubrick,Malcolm McDowell/Patrick Magee
+82,Lawrence of Arabia,Adventure/Biography/Drama,David Lean,Peter O'Toole/Alec Guinness
+83,Bicycle Thieves,Drama,Vittorio De Sica,Lamberto Maggiorani/Enzo Staiola
+84,All About Eve,Drama,Joseph L. Mankiewicz,Bette Davis/Anne Baxter
+85,Requiem for a Dream,Drama,Darren Aronofsky,Ellen Burstyn/Jared Leto
+86,Taxi Driver,Crime/Drama,Martin Scorsese,Robert De Niro/Jodie Foster
+87,Braveheart,Biography/Drama/History,Mel Gibson,Mel Gibson/Sophie Marceau
+88,The Kid,Comedy/Family/Fantasy,Jon Turteltaub,Bruce Willis/Spencer Breslin
+89,Singin' in the Rain,Comedy/Musical/Romance,Stanley Donen,Gene Kelly/Donald O'Connor
+90,Star Wars: Episode VI - Return of the Jedi,Action/Adventure/Fantasy,Richard Marquand,Mark Hamill/Harrison Ford
+91,The Treasure of the Sierra Madre,Adventure/Drama/Western,John Huston,Humphrey Bogart/Walter Huston
+92,Reservoir Dogs,Crime/Drama/Thriller,Quentin Tarantino,Harvey Keitel/Tim Roth
+93,Yojimbo,Action/Drama/Thriller,Akira Kurosawa,Toshirô Mifune/Eijirô Tôno
+94,Rashomon,Crime/Drama/Mystery,Akira Kurosawa,Toshirô Mifune/Machiko Kyô
+95,The Sting,Comedy/Crime/Drama,George Roy Hill,Paul Newman/Robert Redford
+96,The Third Man,Film-Noir/Mystery/Thriller,Carol Reed,Orson Welles/Joseph Cotten
+97,Ikiru,Drama,Akira Kurosawa,Takashi Shimura/Nobuo Kaneko
+98,The Apartment,Comedy/Drama/Romance,Billy Wilder,Jack Lemmon/Shirley MacLaine
+99,Lagaan: Once Upon a Time in India (2001),Adventure/Drama/Musical,Ashutosh Gowariker,Aamir Khan/Gracy Singh
+100,Monty Python and the Holy Grail,Adventure/Comedy/Fantasy,Terry Gilliam,Graham Chapman/John Cleese
+101,Amadeus,Biography/Drama/History,Milos Forman,F. Murray Abraham/Tom Hulce
+102,Some Like It Hot,Comedy/Romance,Billy Wilder,Marilyn Monroe/Tony Curtis
+103,Full Metal Jacket,Drama/War,Stanley Kubrick,Matthew Modine/R. Lee Ermey
+104,Mr. Smith Goes to Washington,Comedy/Drama,Frank Capra,James Stewart/Jean Arthur
+105,Metropolis,Drama/Sci-Fi,Fritz Lang,Brigitte Helm/Alfred Abel
+106,For a Few Dollars More,Western,Sergio Leone,Clint Eastwood/Lee Van Cleef
+107,Snatch. (2000),Comedy/Crime,Guy Ritchie,Jason Statham/Brad Pitt
+108,The General,Action/Adventure/Comedy,Clyde Bruckman,Buster Keaton/Marion Mack
+109,L.A. Confidential,Crime/Drama/Mystery,Curtis Hanson,Kevin Spacey/Russell Crowe
+110,Batman Begins,Action/Adventure,Christopher Nolan,Christian Bale/Michael Caine
+111,Barfi!,Adventure/Comedy/Drama,Anurag Basu,Ranbir Kapoor/Priyanka Chopra
+112,Wild Strawberries,Drama/Romance,Ingmar Bergman,Victor Sjöström/Bibi Andersson
+113,2001: A Space Odyssey,Adventure/Mystery/Sci-Fi,Stanley Kubrick,Keir Dullea/Gary Lockwood
+114,Raging Bull,Biography/Drama/Sport,Martin Scorsese,Robert De Niro/Cathy Moriarty
+115,On the Waterfront,Crime/Drama/Thriller,Elia Kazan,Marlon Brando/Karl Malden
+116,Rush,Action/Biography/Drama,Ron Howard,Daniel Brühl/Chris Hemsworth
+117,Inglourious Basterds,Adventure/Drama/War,Quentin Tarantino,Brad Pitt/Diane Kruger
+118,Chinatown,Drama/Mystery/Thriller,Roman Polanski,Jack Nicholson/Faye Dunaway
+119,Indiana Jones and the Last Crusade,Action/Adventure/Fantasy,Steven Spielberg,Harrison Ford/Sean Connery
+120,Unforgiven,Drama/Western,Clint Eastwood,Clint Eastwood/Gene Hackman
+121,The Hunt,Drama,Thomas Vinterberg,Mads Mikkelsen/Thomas Bo Larsen
+122,The Great Escape,Adventure/Drama/History,John Sturges,Steve McQueen/James Garner
+123,Ran,Action/Drama,Akira Kurosawa,Tatsuya Nakadai/Akira Terao
+124,Downfall,Biography/Drama/History,Oliver Hirschbiegel,Bruno Ganz/Alexandra Maria Lara
+125,Scarface,Crime/Drama,Brian De Palma,Al Pacino/Michelle Pfeiffer
+126,The Gold Rush,Adventure/Comedy/Drama,Charles Chaplin,Charles Chaplin/Mack Swain
+127,The Seventh Seal,Drama/Fantasy,Ingmar Bergman,Max von Sydow/Gunnar Björnstrand
+128,The Bridge on the River Kwai,Adventure/Drama/War,David Lean,William Holden/Alec Guinness
+129,It Happened One Night,Comedy/Romance,Frank Capra,Clark Gable/Claudette Colbert
+130,Pan's Labyrinth,Drama/Fantasy/War,Guillermo del Toro,Ivana Baquero/Ariadna Gil
+131,Up,Animation/Adventure/Comedy,Pete Docter,Edward Asner/Jordan Nagai
+132,Toy Story,Animation/Adventure/Comedy,John Lasseter,Tom Hanks/Tim Allen
+133,Judgment at Nuremberg,Drama/War,Stanley Kramer,Spencer Tracy/Burt Lancaster
+134,My Neighbor Totoro,Animation/Family/Fantasy,Hayao Miyazaki,Hitoshi Takagi/Noriko Hidaka
+135,Die Hard,Action/Thriller,John McTiernan,Bruce Willis/Alan Rickman
+136,Rebecca,Drama/Film-Noir/Mystery,Alfred Hitchcock,Laurence Olivier/Joan Fontaine
+137,Heat,Action/Crime/Drama,Michael Mann,Al Pacino/Robert De Niro
+138,The Secret in Their Eyes,Drama/Mystery/Thriller,Juan José Campanella,Ricardo Darín/Soledad Villamil
+139,Gravity,Adventure/Drama/Sci-Fi,Alfonso Cuarón,Sandra Bullock/George Clooney
+140,"1946 - ""The Best Years of Our Lives""",Drama/Romance/War,William Wyler,Fredric March/Dana Andrews
+141,Les Diabolique (1955),Crime/Drama/Horror,Henri-Georges Clouzot,Simone Signoret/Véra Clouzot
+142,Warrior,Drama/Sport,Gavin O'Connor,Tom Hardy/Nick Nolte
+143,Blade Runner,Sci-Fi/Thriller,Ridley Scott,Harrison Ford/Rutger Hauer
+144,Underground,Comedy/Drama/War,Emir Kusturica,Predrag 'Miki' Manojlovic/Lazar Ristovski
+145,"Lock, Stock and Two Smoking Barrels",Comedy/Crime,Guy Ritchie,Jason Flemyng/Dexter Fletcher
+146,Cool Hand Luke,Drama,Stuart Rosenberg,Paul Newman/George Kennedy
+147,Hachi: A Dog's Tale,Drama/Family,Lasse Hallström,Richard Gere/Joan Allen
+148,The Big Lebowski,Comedy/Crime,Joel Coen,Jeff Bridges/John Goodman
+149,The Avengers,Action/Sci-Fi/Thriller,Joss Whedon,Robert Downey Jr./Chris Evans
+150,The Maltese Falcon,Film-Noir/Mystery,John Huston,Humphrey Bogart/Mary Astor
+151,V for Vendetta,Action/Drama/Thriller,James McTeigue,Hugo Weaving/Natalie Portman
+152,Gone with the Wind,Drama/History/Romance,Victor Fleming,Clark Gable/Vivien Leigh
+153,Gran Torino,Drama,Clint Eastwood,Clint Eastwood/Bee Vang
+154,Good Will Hunting,Drama,Gus Van Sant,Robin Williams/Matt Damon
+155,Incendies,Drama/Mystery/War,Denis Villeneuve,Lubna Azabal/Mélissa Désormeaux-Poulin
+156,Fanny and Alexander,Drama,Ingmar Bergman,Bertil Guve/Pernilla Allwin
+157,My Sassy Girl,Comedy/Drama/Romance,Jae-young Kwak,Tae-hyun Cha/Ji-hyun Jun
+158,Touch of Evil,Crime/Drama/Film-Noir,Orson Welles,Charlton Heston/Orson Welles
+159,Into the Wild,Adventure/Biography/Drama,Sean Penn,Emile Hirsch/Vince Vaughn
+160,The Deer Hunter,Drama/War,Michael Cimino,Robert De Niro/Christopher Walken
+161,Casino,Biography/Crime/Drama,Martin Scorsese,Robert De Niro/Sharon Stone
+162,Mary and Max,Animation/Comedy/Drama,Adam Elliot,Toni Collette/Philip Seymour Hoffman
+163,How to Train Your Dragon,Animation/Action/Adventure,Dean DeBlois,Jay Baruchel/Gerard Butler
+164,Hotel Rwanda,Drama/History/War,Terry George,Don Cheadle/Sophie Okonedo
+165,Trainspotting (1996),Drama,Danny Boyle,Ewan McGregor/Ewen Bremner
+166,The Grapes of Wrath (1940),Drama/History,John Ford,Henry Fonda/Jane Darwell
+167,Persona,Drama/Thriller,Ingmar Bergman,Bibi Andersson/Liv Ullmann
+168,Butch Cassidy and the Sundance Kid,Biography/Crime/Drama,George Roy Hill,Paul Newman/Robert Redford
+169,The 400 Blows,Crime/Drama,François Truffaut,Jean-Pierre Léaud/Albert Rémy
+170,Fargo,Crime/Drama/Thriller,Joel Coen,William H. Macy/Frances McDormand
+171,The Princess Bride,Adventure/Family/Fantasy,Rob Reiner,Cary Elwes/Mandy Patinkin
+172,Annie Hall,Comedy/Romance,Woody Allen,Woody Allen/Diane Keaton
+173,Dial M for Murder (1954),Crime/Thriller,Alfred Hitchcock,Ray Milland/Grace Kelly
+174,"Black Cat, White Cat",Comedy/Crime/Romance,Emir Kusturica,Bajram Severdzan/Srdjan 'Zika' Todorovic
+175,Network,Drama,Sidney Lumet,Faye Dunaway/William Holden
+176,8½,Drama/Fantasy,Federico Fellini,Marcello Mastroianni/Anouk Aimée
+177,Stalker,Drama/Sci-Fi,Andrei Tarkovsky,Alisa Freyndlikh/Aleksandr Kaydanovskiy
+178,The Hobbit: The Desolation of Smaug,Adventure/Fantasy,Peter Jackson,Ian McKellen/Martin Freeman
+179,La Strada,Drama,Federico Fellini,Anthony Quinn/Giulietta Masina
+180,Tae Guk Gi: The Brotherhood of War,Action/Drama/War,Je-kyu Kang,Dong-gun Jang/Bin Won
+181,The Thing,Horror/Mystery/Sci-Fi,Matthijs van Heijningen Jr.,Mary Elizabeth Winstead/Joel Edgerton
+182,Sin City,Action/Crime/Thriller,Frank Miller,Mickey Rourke/Jessica Alba
+183,Nausicaä of the Valley of the Wind,Animation/Adventure/Fantasy,Hayao Miyazaki,Sumi Shimamoto/Mahito Tsujimura
+184,"Monty Python's Life of Brian (1979, Terry Jones)",Comedy,Terry Jones,Graham Chapman/John Cleese
+185,The Sixth Sense,Drama/Mystery/Thriller,M. Night Shyamalan,Bruce Willis/Haley Joel Osment
+186,A Beautiful Mind,Biography/Drama,Ron Howard,Russell Crowe/Ed Harris
+187,Platoon,Drama/War,Oliver Stone,Charlie Sheen/Tom Berenger
+188,Amores Perros,Drama/Thriller,Alejandro G. Iñárritu,Emilio Echevarría/Gael García Bernal
+189,Who's Afraid of Virginia Woolf?,Drama,Mike Nichols,Elizabeth Taylor/Richard Burton
+190,High Noon,Drama/Thriller/Western,Fred Zinnemann,Gary Cooper/Grace Kelly
+191,Infernal Affairs (2002),Crime/Drama/Mystery,Wai-Keung Lau,Andy Lau/Tony Chiu Wai Leung
+192,Departures,Drama/Music,Yôjirô Takita,Masahiro Motoki/Ryôko Hirosue
+193,Notorious,Biography/Crime/Drama,George Tillman Jr.,Jamal Woolard/Anthony Mackie
+194,The Celebration,Drama,Thomas Vinterberg,Ulrich Thomsen/Henning Moritzen
+195,Kill Bill: Vol. 1,Action/Thriller,Quentin Tarantino,Uma Thurman/David Carradine
+196,Finding Nemo,Animation/Adventure/Comedy,Andrew Stanton,Albert Brooks/Ellen DeGeneres
+197,Stalag 17 (1953),Drama/War,Billy Wilder,William Holden/Don Taylor
+198,Ben-Hur,Adventure/Drama/History,William Wyler,Charlton Heston/Jack Hawkins
+199,No Country for Old Men,Crime/Drama/Thriller,Ethan Coen,Tommy Lee Jones/Javier Bardem
+200,In the Name of the Father,Biography/Drama/History,Jim Sheridan,Daniel Day-Lewis/Pete Postlethwaite
+201,Elite Squad: The Enemy Within,Action/Crime/Drama,José Padilha,Wagner Moura/Irandhir Santos
+202,Stand by Me,Adventure/Drama,Rob Reiner,Wil Wheaton/River Phoenix
+203,The Wizard of Oz,Adventure/Family/Fantasy,Victor Fleming,Judy Garland/Frank Morgan
+204,Donnie Darko,Drama/Sci-Fi/Thriller,Richard Kelly,Jake Gyllenhaal/Jena Malone
+205,Strangers on a Train,Crime/Film-Noir/Thriller,Alfred Hitchcock,Farley Granger/Robert Walker
+206,The Night of the Hunter,Crime/Drama/Film-Noir,Charles Laughton,Robert Mitchum/Shelley Winters
+207,La Dolce Vita,Comedy/Drama,Federico Fellini,Marcello Mastroianni/Anita Ekberg
+208,Memories of Murder (Saliniui Chueok),Crime/Drama/Mystery,Joon-ho Bong,Kang-ho Song/Sang-kyung Kim
+209,The Big Sleep,Crime/Film-Noir/Mystery,Howard Hawks,Humphrey Bogart/Lauren Bacall
+210,Ip Man,Action/Biography/Drama,Wilson Yip,Donnie Yen/Simon Yam
+211,In the Mood for Love,Drama/Romance,Kar-Wai Wong,Tony Chiu Wai Leung/Maggie Cheung
+212,Gandhi,Biography/Drama/History,Richard Attenborough,Ben Kingsley/John Gielgud
+213,A Christmas Story,Comedy/Family,Bob Clark,Peter Billingsley/Melinda Dillon
+214,Harry Potter and the Deathly Hallows: Part 2,Adventure/Drama/Fantasy,David Yates,Daniel Radcliffe/Emma Watson
+215,La Haine,Crime/Drama,Mathieu Kassovitz,Vincent Cassel/Hubert Koundé
+216,The Legend of 1900,Drama/Music/Romance,Giuseppe Tornatore,Tim Roth/Pruitt Taylor Vince
+217,"Three Colors: Red (1994, Krzysztof Kieslowski)",Drama/Mystery/Romance,Krzysztof Kieslowski,Irène Jacob/Jean-Louis Trintignant
+218,Castle in the Sky,Animation/Adventure/Family,Hayao Miyazaki,Anna Paquin/James Van Der Beek
+219,There Will Be Blood,Drama,Paul Thomas Anderson,Daniel Day-Lewis/Paul Dano
+220,Das Bourne Ultimatum,Action/Mystery/Thriller,Paul Greengrass,Matt Damon/Edgar Ramírez
+221,The Hustler (1961),Drama/Sport,Robert Rossen,Paul Newman/Jackie Gleason
+222,Million Dollar Baby,Drama/Sport,Clint Eastwood,Hilary Swank/Clint Eastwood
+223,Barry Lyndon,Adventure/Drama/History,Stanley Kubrick,Ryan O'Neal/Marisa Berenson
+224,3-Iron,Crime/Drama/Romance,Ki-duk Kim,Seung-yeon Lee/Hyun-kyoon Lee
+225,Roman Holiday (1953),Comedy/Romance,William Wyler,Gregory Peck/Audrey Hepburn
+226,The Philadelphia Story,Comedy/Romance,George Cukor,Cary Grant/Katharine Hepburn
+227,The King's Speech,Biography/Drama,Tom Hooper,Colin Firth/Geoffrey Rush
+228,"Spring, Summer, Fall, Winter... and Spring",Drama,Ki-duk Kim,Ki-duk Kim/Yeong-su Oh
+229,Chungking Express,Comedy/Drama/Romance,Kar-Wai Wong,Brigitte Lin/Takeshi Kaneshiro
+230,The Last Picture Show,Drama,Peter Bogdanovich,Timothy Bottoms/Jeff Bridges
+231,The Perks Of Being A Wallflower,Drama/Romance,Stephen Chbosky,Logan Lerman/Emma Watson
+232,Sleuth (1972),Mystery/Thriller,Joseph L. Mankiewicz,Laurence Olivier/Michael Caine
+233,Before Sunrise,Drama/Romance,Richard Linklater,Ethan Hawke/Julie Delpy
+234,"Paris, Texas",Drama,Wim Wenders,Harry Dean Stanton/Nastassja Kinski
+235,Bringing Up Baby,Comedy/Family/Romance,Howard Hawks,Katharine Hepburn/Cary Grant
+236,Arsenic and Old Lace,Comedy/Crime/Thriller,Frank Capra,Cary Grant/Priscilla Lane
+237,The Man Who Shot Liberty Valance,Drama/Western,John Ford,James Stewart/John Wayne
+238,Before Midnight,Drama/Romance,Richard Linklater,Ethan Hawke/Julie Delpy
+239,Jaws,Adventure/Drama/Thriller,Steven Spielberg,Roy Scheider/Robert Shaw
+240,The Help,Drama,Tate Taylor,Emma Stone/Viola Davis
+241,Anatomy of a Murder (1959),Crime/Drama/Mystery,Otto Preminger,James Stewart/Lee Remick
+242,The Sea Inside,Biography/Drama/Romance,Alejandro Amenábar,Javier Bardem/Belén Rueda
+243,Solaris,Drama/Mystery/Romance,Steven Soderbergh,George Clooney/Natascha McElhone
+244,Prisoners,Crime/Drama/Mystery,Denis Villeneuve,Hugh Jackman/Jake Gyllenhaal
+245,12 Monkeys,Mystery/Sci-Fi/Thriller,Terry Gilliam,Bruce Willis/Madeleine Stowe
+246,Rio Bravo,Action/Drama/Western,Howard Hawks,John Wayne/Dean Martin
+247,Harvey,Comedy/Drama/Fantasy,Henry Koster,James Stewart/Josephine Hull
+248,Harold and Maude,Comedy/Drama/Romance,Hal Ashby,Ruth Gordon/Bud Cort
+249,Elite Squad,Action/Crime/Drama,José Padilha,Wagner Moura/André Ramiro
+250,Pirates of the Caribbean: The Curse of the Black Pearl,Action/Adventure/Fantasy,Gore Verbinski,Johnny Depp/Geoffrey Rush
+251,Wings of Desire,Drama/Fantasy/Romance,Wim Wenders,Bruno Ganz/Solveig Dommartin
+252,Rocky,Drama/Sport,John G. Avildsen,Sylvester Stallone/Talia Shire
+253,His Girl Friday,Comedy/Drama/Romance,Howard Hawks,Cary Grant/Rosalind Russell
+254,Duck Soup,Comedy/Musical/War,Leo McCarey,Groucho Marx/Harpo Marx
+255,Dog Day Afternoon,Crime/Drama,Sidney Lumet,Al Pacino/John Cazale
+256,The Graduate,Comedy/Drama,Mike Nichols,Dustin Hoffman/Anne Bancroft
+257,The Diving Bell and the Butterfly,Biography/Drama,Julian Schnabel,Mathieu Amalric/Emmanuelle Seigner
+258,Akira,Animation/Action/Sci-Fi,Katsuhiro Ôtomo,Nozomu Sasaki/Mami Koyama
+259,Groundhog Day,Comedy/Fantasy/Romance,Harold Ramis,Bill Murray/Andie MacDowell
+260,Rope,Crime/Drama/Thriller,Alfred Hitchcock,James Stewart/John Dall
+261,Shutter Island,Mystery/Thriller,Martin Scorsese,Leonardo DiCaprio/Emily Mortimer
+262,A Fistful of Dollars,Action/Drama/Western,Sergio Leone,Clint Eastwood/Gian Maria Volontè
+263,The Terminator,Action/Sci-Fi,James Cameron,Arnold Schwarzenegger/Linda Hamilton
+264,The Manchurian Candidate,Drama/Thriller,John Frankenheimer,Frank Sinatra/Laurence Harvey
+265,Before Sunset,Drama/Romance,Richard Linklater,Ethan Hawke/Julie Delpy
+266,The Hobbit: An Unexpected Journey,Adventure/Fantasy,Peter Jackson,Martin Freeman/Ian McKellen
+267,Life of Pi (2012),Adventure/Drama/Fantasy,Ang Lee,Suraj Sharma/Irrfan Khan
+268,Papillon,Biography/Crime/Drama,Franklin J. Schaffner,Steve McQueen/Dustin Hoffman
+269,A Streetcar Named Desire,Drama,Elia Kazan,Vivien Leigh/Marlon Brando
+270,Slumdog Millionaire,Drama,Danny Boyle,Dev Patel/Freida Pinto
+271,Crimes and Misdemeanors,Comedy/Drama,Woody Allen,Martin Landau/Woody Allen
+272,Young Frankenstein,Comedy,Mel Brooks,Gene Wilder/Madeline Kahn
+273,Charade,Comedy/Mystery/Romance,Stanley Donen,Cary Grant/Audrey Hepburn
+274,Being There,Comedy/Drama,Hal Ashby,Peter Sellers/Shirley MacLaine
+275,Frozen,Animation/Adventure/Comedy,Chris Buck,Kristen Bell/Idina Menzel
+276,"Monsters, Inc.",Animation/Adventure/Comedy,Pete Docter,Billy Crystal/John Goodman
+277,All Quiet on the Western Front,Drama/War,Lewis Milestone,Lew Ayres/Louis Wolheim
+278,Beauty and the Beast,Animation/Family/Fantasy,Gary Trousdale,Paige O'Hara/Robby Benson
+279,The Wild Bunch,Action/Adventure/Western,Sam Peckinpah,William Holden/Ernest Borgnine
+280,Patton,Biography/Drama/War,Franklin J. Schaffner,George C. Scott/Karl Malden
+281,Sling Blade,Drama,Billy Bob Thornton,Billy Bob Thornton/Dwight Yoakam
+282,The Cabinet of Dr. Caligari,Fantasy/Horror/Mystery,Robert Wiene,Werner Krauss/Conrad Veidt
+283,Star Trek,Action/Adventure/Sci-Fi,Justin Lin,Chris Pine/Zachary Quinto
+284,Black Swan,Drama/Thriller,Darren Aronofsky,Natalie Portman/Mila Kunis
+285,The Nightmare Before Christmas,Animation/Family/Fantasy,Henry Selick,Danny Elfman/Chris Sarandon
+286,Manhattan,Comedy/Drama/Romance,Woody Allen,Woody Allen/Diane Keaton
+287,Dawn of the Dead,Action/Horror/Thriller,Zack Snyder,Sarah Polley/Ving Rhames
+288,Dogville,Crime/Drama,Lars von Trier,Nicole Kidman/Paul Bettany
+289,Big Fish,Adventure/Drama/Fantasy,Tim Burton,Ewan McGregor/Albert Finney
+290,The Adventures of Robin Hood,Action/Adventure/Romance,Michael Curtiz,Errol Flynn/Olivia de Havilland
+291,This Is Spinal Tap,Comedy/Music,Rob Reiner,Rob Reiner/Michael McKean
+292,Brazil,Drama/Sci-Fi,Terry Gilliam,Jonathan Pryce/Kim Greist
+293,Blood Diamond,Adventure/Drama/Thriller,Edward Zwick,Leonardo DiCaprio/Djimon Hounsou
+294,Persepolis,Animation/Biography/Drama,Vincent Paronnaud,Chiara Mastroianni/Catherine Deneuve
+295,Captain Phillips,Biography/Drama/Thriller,Paul Greengrass,Tom Hanks/Barkhad Abdi
+296,The Truman Show,Comedy/Drama/Sci-Fi,Peter Weir,Jim Carrey/Ed Harris
+297,The Artist,Comedy/Drama/Romance,Michel Hazanavicius,Jean Dujardin/Bérénice Bejo
+298,The Straight Story,Biography/Drama,David Lynch,Richard Farnsworth/Sissy Spacek
+299,JFK,Drama/History/Thriller,Oliver Stone,Kevin Costner/Gary Oldman
+300,The Searchers,Adventure/Drama/Western,John Ford,John Wayne/Jeffrey Hunter
+301,Talk to Her,Drama/Mystery/Romance,Pedro Almodóvar,Rosario Flores/Javier Cámara
+302,Jurassic Park,Adventure/Sci-Fi/Thriller,Steven Spielberg,Sam Neill/Laura Dern
+303,Dancer in the Dark,Crime/Drama/Musical,Lars von Trier,Björk/Catherine Deneuve
+304,The Lady Vanishes,Mystery/Thriller,Alfred Hitchcock,Margaret Lockwood/Michael Redgrave
+305,Dallas Buyers Club,Biography/Drama,Jean-Marc Vallée,Matthew McConaughey/Jennifer Garner
+306,Ratatouille,Animation/Comedy/Family,Brad Bird,Brad Garrett/Lou Romano
+307,Magnolia,Drama,Paul Thomas Anderson,Tom Cruise/Jason Robards
+308,The Exorcist,Horror,William Friedkin,Ellen Burstyn/Max von Sydow
+309,Doctor Zhivago,Drama/Romance/War,David Lean,Omar Sharif/Julie Christie
+310,Days of Heaven,Drama/Romance,Terrence Malick,Richard Gere/Brooke Adams
+311,Battleship Potemkin,Drama/History,Sergei M. Eisenstein,Aleksandr Antonov/Vladimir Barsky
+312,Rain Man,Drama,Barry Levinson,Dustin Hoffman/Tom Cruise
+313,Pink Floyd - The Wall,Animation/Drama/Fantasy,Alan Parker,Bob Geldof/Christine Hargreaves
+314,Head-on (2004),Drama/Romance,Fatih Akin,Birol Ünel/Sibel Kekilli
+315,In the Heat of the Night,Crime/Drama/Mystery,Norman Jewison,Sidney Poitier/Rod Steiger
+316,Shadow of a Doubt,Thriller,Alfred Hitchcock,Teresa Wright/Joseph Cotten
+317,The Hunger Games: Catching Fire,Adventure/Mystery/Sci-Fi,Francis Lawrence,Jennifer Lawrence/Josh Hutcherson
+318,All the President's Men,Biography/Drama/History,Alan J. Pakula,Dustin Hoffman/Robert Redford
+319,Aguirre: The Wrath of God,Adventure/Drama/History,Werner Herzog,Klaus Kinski/Ruy Guerra
+320,Night of the Living Dead,Drama/Horror/Mystery,George A. Romero,Duane Jones/Judith O'Dea
+321,Shaun of the Dead,Comedy/Horror,Edgar Wright,Simon Pegg/Nick Frost
+322,District 9,Action/Sci-Fi/Thriller,Neill Blomkamp,Sharlto Copley/David James
+323,Nosferatu,Fantasy/Horror,F.W. Murnau,Max Schreck/Greta Schröder
+324,No Man's Land,Drama/War,Danis Tanovic,Branko Djuric/Rene Bitorajac
+325,Let the Right One In,Drama/Horror,Tomas Alfredson,Kåre Hedebrant/Lina Leandersson
+326,Dances with Wolves,Adventure/Drama/Western,Kevin Costner,Kevin Costner/Mary McDonnell
+327,Cinderella Man,Biography/Drama/Sport,Ron Howard,Russell Crowe/Renée Zellweger
+328,Frankenstein,Action/Fantasy/Sci-Fi,Stuart Beattie,Aaron Eckhart/Bill Nighy
+329,Three Colors: Blue,Drama/Music/Mystery,Krzysztof Kieslowski,Juliette Binoche/Zbigniew Zamachowski
+330,The Man from Earth,Drama/Romance/Sci-Fi,Richard Schenkman,David Lee Smith/Tony Todd
+331,Serenity,Action/Adventure/Sci-Fi,Joss Whedon,Nathan Fillion/Gina Torres
+332,Moon,Drama/Mystery/Sci-Fi,Duncan Jones,Sam Rockwell/Kevin Spacey
+333,Hannah and Her Sisters,Comedy/Drama,Woody Allen,Mia Farrow/Dianne Wiest
+334,The Sound of Music,Biography/Drama/Family,Robert Wise,Julie Andrews/Christopher Plummer
+335,Edward Scissorhands,Drama/Fantasy/Romance,Tim Burton,Johnny Depp/Winona Ryder
+336,Kill Bill: Vol. 2,Action/Crime/Drama,Quentin Tarantino,Uma Thurman/David Carradine
+337,Ghost in the Shell,Animation/Action/Mystery,Mamoru Oshii,Atsuko Tanaka/Iemasa Kayumi
+338,Rosemary's Baby,Drama/Horror,Roman Polanski,Mia Farrow/John Cassavetes
+339,The Notebook,Drama/Romance,Nick Cassavetes,Gena Rowlands/James Garner
+340,Mystic River,Crime/Drama/Mystery,Clint Eastwood,Sean Penn/Tim Robbins
+341,The African Queen,Adventure/Drama/Romance,John Huston,Humphrey Bogart/Katharine Hepburn
+342,Once,Drama/Music/Romance,John Carney,Glen Hansard/Markéta Irglová
+343,Midnight Cowboy,Drama,John Schlesinger,Dustin Hoffman/Jon Voight
+344,True Romance,Crime/Drama/Romance,Tony Scott,Christian Slater/Patricia Arquette
+345,In Bruges,Comedy/Crime/Drama,Martin McDonagh,Colin Farrell/Brendan Gleeson
+346,Glory,Drama/History/War,Edward Zwick,Matthew Broderick/Denzel Washington
+347,Mulholland Drive,Drama/Mystery/Thriller,David Lynch,Naomi Watts/Laura Harring
+348,The Untouchables,Crime/Drama/Thriller,Brian De Palma,Kevin Costner/Sean Connery
+349,King Kong,Action/Adventure/Drama,Peter Jackson,Naomi Watts/Jack Black
+350,Spartacus,Adventure/Biography/Drama,Stanley Kubrick,Kirk Douglas/Laurence Olivier
+351,Breathless,Action/Drama/Romance,Jim McBride,Richard Gere/Valérie Kaprisky
+352,The Killer,Action/Crime/Drama,John Woo,Yun-Fat Chow/Danny Lee
+353,The Blues Brothers,Action/Comedy/Crime,John Landis,John Belushi/Dan Aykroyd
+354,The Incredibles,Animation/Action/Adventure,Brad Bird,Craig T. Nelson/Samuel L. Jackson
+355,Letters from Iwo Jima,Drama/History/War,Clint Eastwood,Ken Watanabe/Kazunari Ninomiya
+356,Planet of the Apes,Adventure/Sci-Fi,Franklin J. Schaffner,Charlton Heston/Roddy McDowall
+357,Aladdin,Animation/Adventure/Comedy,Ron Clements,Scott Weinger/Robin Williams
+358,The Conversation,Drama/Mystery/Thriller,Francis Ford Coppola,Gene Hackman/John Cazale
+359,Casino Royale,Action/Adventure/Thriller,Martin Campbell,Daniel Craig/Eva Green
+360,Hero,Action/Drama/Romance,Nikkhil Advani,Suraj Pancholi/Athiya Shetty
+361,Hard Boiled,Action/Crime/Drama,John Woo,Yun-Fat Chow/Tony Chiu Wai Leung
+362,Almost Famous,Adventure/Comedy/Drama,Cameron Crowe,Billy Crudup/Patrick Fugit
+363,The Remains of the Day,Drama/Romance,James Ivory,Anthony Hopkins/Emma Thompson
+364,Catch Me If You Can,Biography/Crime/Drama,Steven Spielberg,Leonardo DiCaprio/Tom Hanks
+365,The Wrestler,Drama/Sport,Darren Aronofsky,Mickey Rourke/Marisa Tomei
+366,Avatar,Action/Adventure/Fantasy,James Cameron,Sam Worthington/Zoe Saldana
+367,Bonnie and Clyde,Action/Biography/Crime,Arthur Penn,Warren Beatty/Faye Dunaway
+368,Dead Poets Society,Comedy/Drama,Peter Weir,Robin Williams/Robert Sean Leonard
+369,The Breakfast Club,Comedy/Drama,John Hughes,Emilio Estevez/Judd Nelson
+370,Freaks,Drama/Horror,Tod Browning,Wallace Ford/Leila Hyams
+371,Ed Wood,Biography/Comedy/Drama,Tim Burton,Johnny Depp/Martin Landau
+372,Scent of a Woman,Drama,Martin Brest,Al Pacino/Chris O'Donnell
+373,The Bride of Frankenstein,Comedy/Drama/Horror,James Whale,Boris Karloff/Elsa Lanchester
+374,Toy Story 2,Animation/Adventure/Comedy,John Lasseter,Tom Hanks/Tim Allen
+375,The Killing Fields,Drama/History/War,Roland Joffé,Sam Waterston/Haing S. Ngor
+376,Crash,Crime/Drama/Thriller,Paul Haggis,Don Cheadle/Sandra Bullock
+377,The Right Stuff,Adventure/Drama/History,Philip Kaufman,Sam Shepard/Scott Glenn
+378,The Man Who Would Be King,Adventure,John Huston,Sean Connery/Michael Caine
+379,All About My Mother,Drama,Pedro Almodóvar,Cecilia Roth/Marisa Paredes
+380,The Insider (1999),Biography/Drama/Thriller,Michael Mann,Russell Crowe/Al Pacino
+381,The Iron Giant,Animation/Action/Adventure,Brad Bird,Eli Marienthal/Harry Connick Jr.
+382,A Prophet,Crime/Drama,Jacques Audiard,Tahar Rahim/Niels Arestrup
+383,Children of Men,Drama/Sci-Fi/Thriller,Alfonso Cuarón,Julianne Moore/Clive Owen
+384,Miller's Crossing,Crime/Drama/Thriller,Joel Coen,Gabriel Byrne/Albert Finney
+385,Badlands,Crime/Drama,Terrence Malick,Martin Sheen/Sissy Spacek
+386,My Fair Lady,Drama/Family/Musical,George Cukor,Audrey Hepburn/Rex Harrison
+387,The Pursuit of Happyness,Biography/Drama,Gabriele Muccino,Will Smith/Thandie Newton
+388,The Outlaw Josey Wales,Western,Clint Eastwood,Clint Eastwood/Sondra Locke
+389,Mr. Nobody,Drama/Fantasy/Romance,Jaco Van Dormael,Jared Leto/Sarah Polley
+390,The Boondock Saints,Action/Crime/Thriller,Troy Duffy,Willem Dafoe/Sean Patrick Flanery
+391,Breaking the Waves,Drama/Romance,Lars von Trier,Emily Watson/Stellan Skarsgård
+392,The Bourne Identity,Action/Mystery/Thriller,Doug Liman,Franka Potente/Matt Damon
+393,Nine Queens,Crime/Drama/Thriller,Fabián Bielinsky,Ricardo Darín/Gastón Pauls
+394,"Crouching Tiger, Hidden Dragon",Action/Adventure/Fantasy,Ang Lee,Yun-Fat Chow/Michelle Yeoh
+395,Lilya 4-Ever,Crime/Drama,Lukas Moodysson,Oksana Akinshina/Artyom Bogucharskiy
+396,"4 Months, 3 Weeks and 2 Days",Drama,Cristian Mungiu,Anamaria Marinca/Vlad Ivanov
+397,The Fall,Adventure/Comedy/Drama,Tarsem Singh,Lee Pace/Catinca Untaru
+398,Iron Man,Action/Adventure/Sci-Fi,Jon Favreau,Robert Downey Jr./Gwyneth Paltrow
+399,Star Trek Into Darkness,Action/Adventure/Sci-Fi,J.J. Abrams,Chris Pine/Zachary Quinto
+400,Shrek,Animation/Adventure/Comedy,Andrew Adamson,Mike Myers/Eddie Murphy
+401,The Fighter,Biography/Drama/Sport,David O. Russell,Mark Wahlberg/Christian Bale
+402,Do the Right Thing,Comedy/Drama,Spike Lee,Danny Aiello/Ossie Davis
+403,Cabaret,Drama/Musical,Bob Fosse,Liza Minnelli/Michael York
+404,Halloween,Horror/Thriller,John Carpenter,Donald Pleasence/Jamie Lee Curtis
+405,Carlito's Way,Crime/Drama,Brian De Palma,Al Pacino/Sean Penn
+406,Walk the Line,Biography/Drama/Music,James Mangold,Joaquin Phoenix/Reese Witherspoon
+407,Little Miss Sunshine,Comedy/Drama,Jonathan Dayton,Steve Carell/Toni Collette
+408,The Chorus,Drama/Music,Christophe Barratier,Gérard Jugnot/François Berléand
+409,Glengarry Glen Ross,Crime/Drama/Mystery,James Foley,Al Pacino/Jack Lemmon
+410,The Man From Nowhere,Action/Crime/Thriller,Jeong-beom Lee,Bin Won/Sae-ron Kim
+411,Taken,Action/Thriller,Pierre Morel,Liam Neeson/Maggie Grace
+412,The 39 Steps,Mystery/Thriller,Alfred Hitchcock,Robert Donat/Madeleine Carroll
+413,Silver Linings Playbook,Comedy/Drama/Romance,David O. Russell,Bradley Cooper/Jennifer Lawrence
+414,Clerks,Comedy,Kevin Smith,Brian O'Halloran/Jeff Anderson
+415,The Ten Commandments,Adventure/Biography/Drama,Cecil B. DeMille,Charlton Heston/Yul Brynner
+416,The Girl with the Dragon Tattoo,Crime/Drama/Mystery,David Fincher,Daniel Craig/Rooney Mara
+417,Down by Law,Comedy/Crime/Drama,Jim Jarmusch,Tom Waits/John Lurie
+418,Ferris Bueller's Day Off,Comedy,John Hughes,Matthew Broderick/Alan Ruck
+419,The World's Fastest Indian,Biography/Drama/Sport,Roger Donaldson,Anthony Hopkins/Diane Ladd
+420,Hot Fuzz,Action/Comedy/Mystery,Edgar Wright,Simon Pegg/Nick Frost
+421,My Left Foot (1989),Biography/Drama,Jim Sheridan,Daniel Day-Lewis/Brenda Fricker
+422,Lone Survivor,Action/Biography/Drama,Peter Berg,Mark Wahlberg/Taylor Kitsch
+423,Office Space,Comedy,Mike Judge,Ron Livingston/Jennifer Aniston
+424,Boogie Nights,Drama,Paul Thomas Anderson,Mark Wahlberg/Julianne Moore
+425,Kiki's Delivery Service,Animation/Adventure/Drama,Hayao Miyazaki,Kirsten Dunst/Minami Takayama
+426,Ordinary People,Drama,Robert Redford,Donald Sutherland/Mary Tyler Moore
+427,Tangled,Animation/Adventure/Comedy,Nathan Greno,Mandy Moore/Zachary Levi
+428,Black Book,Drama/Thriller/War,Paul Verhoeven,Carice van Houten/Sebastian Koch
+429,Evil Dead II,Comedy/Fantasy/Horror,Sam Raimi,Bruce Campbell/Sarah Berry
+430,The Day the Earth Stood Still,Drama/Sci-Fi/Thriller,Scott Derrickson,Keanu Reeves/Jennifer Connelly
+431,The Motorcycle Diaries,Adventure/Biography/Drama,Walter Salles,Gael García Bernal/Rodrigo De la Serna
+432,About Time 2013,Comedy/Drama/Fantasy,Richard Curtis,Domhnall Gleeson/Rachel McAdams
+433,Hamlet,Drama,Kenneth Branagh,Kenneth Branagh/Julie Christie
+434,E.T. the Extra-Terrestrial,Family/Sci-Fi,Steven Spielberg,Henry Thomas/Drew Barrymore
+435,Drive (2011),Crime/Drama,Nicolas Winding Refn,Ryan Gosling/Carey Mulligan
+436,Predator,Action/Horror/Sci-Fi,John McTiernan,Arnold Schwarzenegger/Carl Weathers
+437,Tombstone,Action/Biography/Drama,George P. Cosmatos,Kurt Russell/Val Kilmer
+438,Argo,Biography/Drama/History,Ben Affleck,Ben Affleck/Bryan Cranston
+439,Open Your Eyes,Drama/Mystery/Romance,Alejandro Amenábar,Eduardo Noriega/Penélope Cruz
+440,Wreck-It Ralph,Animation/Adventure/Comedy,Rich Moore,John C. Reilly/Jack McBrayer
+441,In America (2002),Drama,Jim Sheridan,Paddy Considine/Samantha Morton
+442,Fantasia,Animation/Family/Fantasy,James Algar,Leopold Stokowski/Deems Taylor
+443,Amour,Drama/Romance,Michael Haneke,Jean-Louis Trintignant/Emmanuelle Riva
+444,Hangover,Comedy,Todd Phillips,Zach Galifianakis/Bradley Cooper
+445,The French Connection,Action/Crime/Drama,William Friedkin,Gene Hackman/Roy Scheider
+446,Invasion of the Body Snatchers,Horror/Sci-Fi,Philip Kaufman,Donald Sutherland/Brooke Adams
+447,The Triplets of Belleville,Animation/Comedy/Drama,Sylvain Chomet,Michèle Caucheteux/Jean-Claude Donda
+448,The Magnificent Seven,Action/Adventure/Western,John Sturges,Yul Brynner/Steve McQueen
+449,Porco Rosso,Animation/Adventure/Comedy,Hayao Miyazaki,Shûichirô Moriyama/Tokiko Katô
+450,Rebel Without a Cause,Drama,Nicholas Ray,James Dean/Natalie Wood
+451,The Curious Case of Benjamin Button,Drama/Fantasy/Romance,David Fincher,Brad Pitt/Cate Blanchett
+452,Gattaca,Drama/Sci-Fi/Thriller,Andrew Niccol,Ethan Hawke/Uma Thurman
+453,(500) Days of Summer,Comedy/Drama/Romance,Marc Webb,Zooey Deschanel/Joseph Gordon-Levitt
+454,I Saw the Devil,Action/Crime/Drama,Jee-woon Kim,Byung-hun Lee/Min-sik Choi
+455,The Social Network,Biography/Drama,David Fincher,Jesse Eisenberg/Andrew Garfield
+456,Run Lola Run,Crime/Drama/Thriller,Tom Tykwer,Franka Potente/Moritz Bleibtreu
+457,From Here to Eternity,Drama/Romance/War,Fred Zinnemann,Burt Lancaster/Montgomery Clift
+458,The Girl with the Dragon Tattoo,Crime/Drama/Mystery,David Fincher,Daniel Craig/Rooney Mara
+459,Moonrise Kingdom,Adventure/Comedy/Drama,Wes Anderson,Jared Gilman/Kara Hayward
+460,American Gangster,Biography/Crime/Drama,Ridley Scott,Denzel Washington/Russell Crowe
+461,Misery,Crime/Drama/Thriller,Rob Reiner,James Caan/Kathy Bates
+462,Mississippi Burning,Crime/Drama/History,Alan Parker,Gene Hackman/Willem Dafoe
+463,Blue Velvet,Drama/Mystery/Thriller,David Lynch,Isabella Rossellini/Kyle MacLachlan
+464,"O Brother, Where Art Thou?",Adventure/Comedy/Crime,Joel Coen,George Clooney/John Turturro
+465,Repulsion,Drama/Horror/Thriller,Roman Polanski,Catherine Deneuve/Ian Hendry
+466,The Boy in the Striped Pajamas,Drama/War,Mark Herman,Asa Butterfield/David Thewlis
+467,Airplane!,Comedy,Jim Abrahams,Robert Hays/Julie Hagerty
+468,The Last of the Mohicans,Action/Adventure/Drama,Michael Mann,Daniel Day-Lewis/Madeleine Stowe
+469,Happiness,Comedy/Drama,Todd Solondz,Jane Adams/Jon Lovitz
+470,Night on Earth,Comedy/Drama,Jim Jarmusch,Winona Ryder/Gena Rowlands
+471,Dirty Harry,Action/Crime/Drama,Don Siegel,Clint Eastwood/Andrew Robinson
+472,Empire of the Sun,Drama/History/War,Steven Spielberg,Christian Bale/John Malkovich
+473,Finding Neverland,Biography/Drama/Family,Marc Forster,Johnny Depp/Kate Winslet
+474,The Last Emperor,Biography/Drama/History,Bernardo Bertolucci,John Lone/Joan Chen
+475,Atonement,Drama/Mystery/Romance,Joe Wright,Keira Knightley/James McAvoy
+476,The Dirty Dozen (1967),Action/Adventure/Comedy,Robert Aldrich,Lee Marvin/Ernest Borgnine
+477,Lost in Translation,Drama,Sofia Coppola,Bill Murray/Scarlett Johansson
+478,X-Men: First Class (2011),Action/Adventure/Sci-Fi,Matthew Vaughn,James McAvoy/Michael Fassbender
+479,The Experiment,Drama/Thriller,Oliver Hirschbiegel,Moritz Bleibtreu/Christian Berkel
+480,Saving Mr. Banks,Biography/Comedy/Drama,John Lee Hancock,Emma Thompson/Tom Hanks
+481,3:10 to Yuma,Adventure/Crime/Drama,James Mangold,Russell Crowe/Christian Bale
+482,Breakfast at Tiffany's,Comedy/Drama/Romance,Blake Edwards,Audrey Hepburn/George Peppard
+483,Kick-Ass,Action/Comedy,Matthew Vaughn,Aaron Taylor-Johnson/Nicolas Cage
+484,October Sky,Biography/Drama/Family,Joe Johnston,Jake Gyllenhaal/Chris Cooper
+485,The Longest Day,Action/Drama/History,Ken Annakin,John Wayne/Robert Ryan
+486,My Name Is Khan,Adventure/Drama/Thriller,Karan Johar,Shah Rukh Khan/Kajol
+487,Fantastic Mr. Fox,Animation/Adventure/Comedy,Wes Anderson,George Clooney/Meryl Streep
+488,Apocalypto,Action/Adventure/Drama,Mel Gibson,Gerardo Taracena/Raoul Max Trujillo
+489,Changeling,Crime/Drama/Mystery,Clint Eastwood,Angelina Jolie/Colm Feore
+490,Being John Malkovich,Comedy/Drama/Fantasy,Spike Jonze,John Cusack/Cameron Diaz
+491,Battle Royale,Adventure/Drama/Sci-Fi,Kinji Fukasaku,Tatsuya Fujiwara/Aki Maeda
+492,Goldfinger,Action/Adventure/Thriller,Guy Hamilton,Sean Connery/Gert Fröbe
+493,Ghostbusters,Action/Adventure/Comedy,Ivan Reitman,Bill Murray/Dan Aykroyd
+494,Lucky Number Slevin,Crime/Drama/Mystery,Paul McGuigan,Josh Hartnett/Ben Kingsley
+495,The Fugitive,Action/Adventure/Crime,Andrew Davis,Harrison Ford/Tommy Lee Jones
+496,The Name of the Rose,Crime/Mystery/Thriller,Jean-Jacques Annaud,Sean Connery/Christian Slater
+497,Blazing Saddles,Comedy/Western,Mel Brooks,Cleavon Little/Gene Wilder
+498,The White Ribbon,Drama/Mystery,Michael Haneke,Christian Friedel/Ernst Jacobi
+499,The Color Purple,Drama,Steven Spielberg,Danny Glover/Whoopi Goldberg
+500,The Birds,Drama/Horror/Mystery,Alfred Hitchcock,Rod Taylor/Tippi Hedren
+501,50/50,Comedy/Drama/Romance,Jonathan Levine,Joseph Gordon-Levitt/Seth Rogen
+502,Kung Fu Hustle,Action/Comedy/Crime,Stephen Chow,Stephen Chow/Wah Yuen
+503,300,Action/Drama/Fantasy,Zack Snyder,Gerard Butler/Lena Headey
+504,Dark City,Action/Drama/Fantasy,Alex Proyas,Rufus Sewell/Kiefer Sutherland
+505,Deliverance,Adventure/Drama/Mystery,John Boorman,Jon Voight/Burt Reynolds
+506,Skyfall,Action/Adventure/Thriller,Sam Mendes,Daniel Craig/Javier Bardem
+507,Donnie Brasco,Biography/Crime/Drama,Mike Newell,Al Pacino/Johnny Depp
+508,Dead Man's Shoes,Crime/Drama/Thriller,Shane Meadows,Paddy Considine/Gary Stretch
+509,The Goonies,Adventure/Comedy/Family,Richard Donner,Sean Astin/Josh Brolin
+510,Sabrina,Comedy/Drama,Sydney Pollack,Harrison Ford/Julia Ormond
+511,Serpico,Biography/Crime/Drama,Sidney Lumet,Al Pacino/John Randolph
+512,Ray,Biography/Drama/Music,Taylor Hackford,Jamie Foxx/Regina King
+513,Control,Crime/Sci-Fi/Thriller,Tim Hunter,Ray Liotta/Willem Dafoe
+514,The Game,Drama/Mystery/Thriller,David Fincher,Michael Douglas/Deborah Kara Unger
+515,What's Eating Gilbert Grape,Drama,Lasse Hallström,Johnny Depp/Leonardo DiCaprio
+516,Back to the Future Part II,Adventure/Comedy/Sci-Fi,Robert Zemeckis,Michael J. Fox/Christopher Lloyd
+517,Delicatessen,Comedy/Crime,Marc Caro,Marie-Laure Dougnac/Dominique Pinon
+518,The Station Agent,Comedy/Drama,Tom McCarthy,Peter Dinklage/Patricia Clarkson
+519,Boyz n the Hood,Crime/Drama,John Singleton,Cuba Gooding Jr./Laurence Fishburne
+520,Waking Life,Animation/Drama/Fantasy,Richard Linklater,Ethan Hawke/Trevor Jack Brooks
+521,Dead Man,Drama/Fantasy/Western,Jim Jarmusch,Johnny Depp/Gary Farmer
+522,Stardust,Adventure/Family/Fantasy,Matthew Vaughn,Charlie Cox/Claire Danes
+523,A Very Long Engagement,Drama/Mystery/Romance,Jean-Pierre Jeunet,Audrey Tautou/Gaspard Ulliel
+524,Mysterious Skin,Drama,Gregg Araki,Brady Corbet/Joseph Gordon-Levitt
+525,Love Me If You Dare,Comedy/Drama/Romance,Yann Samuell,Guillaume Canet/Marion Cotillard
+526,21 Grams,Drama,Alejandro G. Iñárritu,Sean Penn/Benicio Del Toro
+527,Rushmore,Comedy/Drama,Wes Anderson,Jason Schwartzman/Bill Murray
+528,Adaptation.,Comedy/Drama,Spike Jonze,Nicolas Cage/Meryl Streep
+529,As Good as It Gets,Comedy/Drama/Romance,James L. Brooks,Jack Nicholson/Helen Hunt
+530,Kramer vs. Kramer,Drama,Robert Benton,Dustin Hoffman/Meryl Streep
+531,Good Bye Lenin!,Drama/Romance,Wolfgang Becker,Daniel Brühl/Katrin Saß
+532,The Machinist,Drama/Thriller,Brad Anderson,Christian Bale/Jennifer Jason Leigh
+533,Mary Poppins,Comedy/Family/Fantasy,Robert Stevenson,Julie Andrews/Dick Van Dyke
+534,Road to Perdition,Crime/Drama/Thriller,Sam Mendes,Tom Hanks/Tyler Hoechlin
+535,Zombieland,Adventure/Comedy/Horror,Ruben Fleischer,Jesse Eisenberg/Emma Stone
+536,Man on Fire,Action/Crime/Drama,Tony Scott,Denzel Washington/Christopher Walken
+537,Show Me Love,Comedy/Drama/Romance,Lukas Moodysson,Alexandra Dahlström/Rebecka Liljeberg
+538,Barton Fink,Comedy/Drama,Joel Coen,John Turturro/John Goodman
+539,Sympathy for Mr. Vengeance,Crime/Drama/Thriller,Chan-wook Park,Kang-ho Song/Ha-kyun Shin
+540,A Bronx Tale,Crime/Drama,Robert De Niro,Robert De Niro/Chazz Palminteri
+541,The Sandlot,Comedy/Drama/Family,David M. Evans,Tom Guiry/Mike Vitar
+542,Frost/Nixon (2008),Drama,Ron Howard,Frank Langella/Michael Sheen
+543,The Bourne Supremacy,Action/Mystery/Thriller,Paul Greengrass,Matt Damon/Franka Potente
+544,Ocean's Eleven,Crime/Thriller,Steven Soderbergh,George Clooney/Brad Pitt
+545,Fear and Loathing in Las Vegas,Adventure/Comedy/Drama,Terry Gilliam,Johnny Depp/Benicio Del Toro
+546,The King of Comedy,Comedy/Crime/Drama,Martin Scorsese,Robert De Niro/Jerry Lewis
+547,The Last King of Scotland,Biography/Drama/History,Kevin Macdonald,James McAvoy/Forest Whitaker
+548,25th Hour,Drama,Spike Lee,Edward Norton/Barry Pepper
+549,William Shatner - Star Trek II: The Wrath of Khan,Action/Adventure/Sci-Fi,Nicholas Meyer,William Shatner/Leonard Nimoy
+550,Harry Potter and the Prisoner of Azkaban,Adventure/Family/Fantasy,Alfonso Cuarón,Daniel Radcliffe/Emma Watson
+551,Gone Baby Gone,Crime/Drama/Mystery,Ben Affleck,Morgan Freeman/Ed Harris
+552,The Purple Rose of Cairo,Comedy/Fantasy/Romance,Woody Allen,Mia Farrow/Jeff Daniels
+553,Short Cuts,Comedy/Drama,Robert Altman,Andie MacDowell/Julianne Moore
+554,Les Misérables,Drama/Musical/Romance,Tom Hooper,Hugh Jackman/Russell Crowe
+555,Forbidden Planet,Action/Adventure/Sci-Fi,Fred M. Wilcox,Walter Pidgeon/Anne Francis
+556,The City of Lost Children,Fantasy/Sci-Fi,Marc Caro,Ron Perlman/Daniel Emilfork
+557,Love Actually,Comedy/Drama/Romance,Richard Curtis,Hugh Grant/Martine McCutcheon
+558,Match Point,Drama/Romance/Thriller,Woody Allen,Scarlett Johansson/Jonathan Rhys Meyers
+559,Boy A,Drama,John Crowley,Andrew Garfield/Peter Mullan
+560,Detachment,Drama,Tony Kaye,Adrien Brody/Christina Hendricks
+561,Black Hawk Down,Drama/History/War,Ridley Scott,Josh Hartnett/Ewan McGregor
+562,The Count Of Monte Cristo,Action/Adventure/Drama,Kevin Reynolds,Jim Caviezel/Guy Pearce
+563,Remember The Titans,Biography/Drama/Sport,Boaz Yakin,Denzel Washington/Will Patton
+564,The Producers,Comedy/Musical,Susan Stroman,Nathan Lane/Matthew Broderick
+565,Awakenings,Biography/Drama,Penny Marshall,Robert De Niro/Robin Williams
+566,The Last Samurai,Action/Drama/History,Edward Zwick,Tom Cruise/Ken Watanabe
+567,Flipped,Comedy/Drama/Romance,Rob Reiner,Madeline Carroll/Callan McAuliffe
+568,The Butterfly Effect,Sci-Fi/Thriller,Eric Bress,Ashton Kutcher/Amy Smart
+569,Snow White and the Seven Dwarfs,Animation/Family/Fantasy,William Cottrell,Adriana Caselotti/Harry Stockwell
+570,Sense and Sensibility,Drama/Romance,Ang Lee,Emma Thompson/Kate Winslet
+571,Papurika,Animation/Adventure/Crime,Satoshi Kon,Megumi Hayashibara/Tôru Emori
+572,Close Encounters of the Third Kind,Drama/Sci-Fi,Steven Spielberg,Richard Dreyfuss/François Truffaut
+573,Enter the Dragon,Action/Crime/Drama,Robert Clouse,Bruce Lee/John Saxon
+574,Ponyo,Animation/Adventure/Family,Hayao Miyazaki,Cate Blanchett/Matt Damon
+575,Brokeback Mountain,Drama/Romance,Ang Lee,Jake Gyllenhaal/Heath Ledger
+576,Blood Simple,Crime/Thriller,Joel Coen,John Getz/Frances McDormand
+577,The Blind Side,Biography/Drama/Sport,John Lee Hancock,Quinton Aaron/Sandra Bullock
+578,"Three Colors: White (1994, Krzysztof Kieslowski)",Comedy/Drama/Romance,Krzysztof Kieslowski,Zbigniew Zamachowski/Julie Delpy
+579,The Visitor,Drama,Tom McCarthy,Richard Jenkins/Haaz Sleiman
+580,The Warriors,Action/Thriller,Walter Hill,Michael Beck/James Remar
+581,Grindhouse,Action/Horror/Thriller,Robert Rodriguez,Kurt Russell/Rose McGowan
+582,Star Wars: Episode III - Revenge of the Sith,Action/Adventure/Fantasy,George Lucas,Hayden Christensen/Natalie Portman
+583,Shine,Biography/Drama/Music,Scott Hicks,Geoffrey Rush/Armin Mueller-Stahl
+584,True Grit,Adventure/Drama/Western,Ethan Coen,Jeff Bridges/Matt Damon
+585,Malcolm X,Biography/Drama/History,Spike Lee,Denzel Washington/Angela Bassett
+586,Saw,Horror/Mystery/Thriller,James Wan,Cary Elwes/Leigh Whannell
+587,Fearless,Action/Biography/Drama,Ronny Yu,Jet Li/Li Sun
+588,Billy Elliot,Drama/Music/Romance,Stephen Daldry,Jamie Bell/Julie Walters
+589,This Is England,Crime/Drama,Shane Meadows,Thomas Turgoose/Stephen Graham
+590,Lolita,Drama/Romance,Adrian Lyne,Jeremy Irons/Dominique Swain
+591,Dangerous Liaisons,Drama/Romance,Stephen Frears,Glenn Close/John Malkovich
+592,"Kiss Kiss, Bang Bang",Comedy/Crime/Mystery,Shane Black,Robert Downey Jr./Val Kilmer
+593,La Vie en Rose,Biography/Drama/Music,Olivier Dahan,Marion Cotillard/Sylvie Testud
+594,Where Eagles Dare,Action/Adventure/War,Brian G. Hutton,Richard Burton/Clint Eastwood
+595,Eastern Promises,Crime/Mystery/Thriller,David Cronenberg,Naomi Watts/Viggo Mortensen
+596,Whale Rider,Drama/Family,Niki Caro,Keisha Castle-Hughes/Rawiri Paratene
+597,Dazed and Confused,Comedy,Richard Linklater,Jason London/Wiley Wiggins
+598,Midnight in Paris,Comedy/Fantasy/Romance,Woody Allen,Owen Wilson/Rachel McAdams
+599,Despicable Me,Animation/Adventure/Comedy,Pierre Coffin,Steve Carell/Jason Segel
+600,Coraline,Animation/Family/Fantasy,Henry Selick,Dakota Fanning/Teri Hatcher
+601,Philadelphia,Drama,Jonathan Demme,Tom Hanks/Denzel Washington
+602,Moulin Rouge!,Drama/Musical/Romance,Baz Luhrmann,Nicole Kidman/Ewan McGregor
+603,Training Day,Crime/Drama/Thriller,Antoine Fuqua,Denzel Washington/Ethan Hawke
+604,American Hustle,Crime/Drama,David O. Russell,Christian Bale/Amy Adams
+605,Primal Fear,Crime/Drama/Mystery,Gregory Hoblit,Richard Gere/Laura Linney
+606,MASH,Comedy/Drama/War,Robert Altman,Donald Sutherland/Elliott Gould
+607,Titanic,Drama/Romance,James Cameron,Leonardo DiCaprio/Kate Winslet
+608,Lady Vengeance,Crime/Drama,Chan-wook Park,Yeong-ae Lee/Min-sik Choi
+609,127 Hours,Adventure/Biography/Drama,Danny Boyle,James Franco/Amber Tamblyn
+610,The Wicker Man,Horror/Mystery/Thriller,Neil LaBute,Nicolas Cage/Ellen Burstyn
+611,Harry Potter and the Deathly Hallows: Part 1,Adventure/Family/Fantasy,David Yates,Daniel Radcliffe/Emma Watson
+612,Cell 211,Action/Drama/Thriller,Daniel Monzón,Luis Tosar/Alberto Ammann
+613,The Player (1992),Comedy/Crime/Drama,Robert Altman,Tim Robbins/Greta Scacchi
+614,Milk,Biography/Drama/History,Gus Van Sant,Sean Penn/Josh Brolin
+615,After Hours,Comedy/Crime/Drama,Martin Scorsese,Griffin Dunne/Rosanna Arquette
+616,Stranger Than Fiction,Comedy/Drama/Fantasy,Marc Forster,Will Ferrell/Emma Thompson
+617,The Secret World of Arrietty,Animation/Adventure/Family,Hiromasa Yonebayashi,Bridgit Mendler/Amy Poehler
+618,The Big Blue,Adventure/Romance/Sport,Luc Besson,Jean-Marc Barr/Jean Reno
+619,Blow-Up,Crime/Drama/Mystery,Michelangelo Antonioni,David Hemmings/Vanessa Redgrave
+620,Traffic,Crime/Drama/Thriller,Steven Soderbergh,Michael Douglas/Benicio Del Toro
+621,Cast Away,Adventure/Drama/Romance,Robert Zemeckis,Tom Hanks/Helen Hunt
+622,United 93,Drama/History/Thriller,Paul Greengrass,David Alan Basche/Olivia Thirlby
+623,End of Watch,Crime/Drama/Thriller,David Ayer,Jake Gyllenhaal/Michael Peña
+624,Spellbound (1945),Film-Noir/Mystery/Romance,Alfred Hitchcock,Ingrid Bergman/Gregory Peck
+625,Lost Highway,Mystery/Thriller,David Lynch,Bill Pullman/Patricia Arquette
+626,Who Framed Roger Rabbit,Animation/Adventure/Comedy,Robert Zemeckis,Bob Hoskins/Christopher Lloyd
+627,Thank You for Smoking,Comedy/Drama,Jason Reitman,Aaron Eckhart/Cameron Bright
+628,The Muppet Christmas Carol,Comedy/Drama/Family,Brian Henson,Michael Caine/Dave Goelz
+629,Minority Report,Action/Mystery/Sci-Fi,Steven Spielberg,Tom Cruise/Colin Farrell
+630,Zodiac,Crime/Drama/History,David Fincher,Jake Gyllenhaal/Robert Downey Jr.
+631,Y Tu Mamá También,Adventure/Comedy/Drama,Alfonso Cuarón,Maribel Verdú/Gael García Bernal
+632,Inside Man,Crime/Drama/Mystery,Spike Lee,Denzel Washington/Clive Owen
+633,Superbad,Comedy,Greg Mottola,Michael Cera/Jonah Hill
+634,Midnight Express,Crime/Drama/Thriller,Alan Parker,Brad Davis/Irene Miracle
+635,Dracula,Fantasy/Horror,Francis Ford Coppola,Gary Oldman/Winona Ryder
+636,Garden State,Comedy/Drama/Romance,Zach Braff,Zach Braff/Peter Sarsgaard
+637,The Flowers of War,Drama/History/Romance,Yimou Zhang,Christian Bale/Ni Ni
+638,West Side Story,Crime/Drama/Musical,Jerome Robbins,Natalie Wood/George Chakiris
+639,Munich,Drama/Thriller,Steven Spielberg,Eric Bana/Daniel Craig
+640,The Legend of Drunken Master,Action/Comedy,Chia-Liang Liu,Jackie Chan/Ho-Sung Pak
+641,National Lampoon's Animal House,Comedy,John Landis,John Belushi/Karen Allen
+642,High Plains Drifter,Mystery/Western,Clint Eastwood,Clint Eastwood/Verna Bloom
+643,28 Days Later,Drama/Horror/Sci-Fi,Danny Boyle,Cillian Murphy/Naomie Harris
+644,Kelly's Heroes,Adventure/Comedy/War,Brian G. Hutton,Clint Eastwood/Telly Savalas
+645,The Kite Runner,Drama,Marc Forster,Khalid Abdalla/Ahmad Khan Mahmoodzada
+646,House of Sand and Fog,Drama,Vadim Perelman,Jennifer Connelly/Ben Kingsley
+647,The Illusionist,Drama/Mystery/Romance,Neil Burger,Edward Norton/Jessica Biel
+648,Seven Pounds,Drama/Romance,Gabriele Muccino,Will Smith/Rosario Dawson
+649,The Last Temptation of Christ,Drama,Martin Scorsese,Willem Dafoe/Harvey Keitel
+650,First Blood,Action/Adventure/Drama,Ted Kotcheff,Sylvester Stallone/Brian Dennehy
+651,Lord of War,Crime/Drama/Thriller,Andrew Niccol,Nicolas Cage/Ethan Hawke
+652,Watchmen - DieWächter,Action/Drama/Mystery,Zack Snyder,Jackie Earle Haley/Patrick Wilson
+653,The Godfather Part III,Crime/Drama,Francis Ford Coppola,Al Pacino/Diane Keaton
+654,When Harry Met Sally,Comedy/Drama/Romance,Rob Reiner,Billy Crystal/Meg Ryan
+655,Following,Crime/Mystery/Thriller,Christopher Nolan,Jeremy Theobald/Alex Haw
+656,Army of Darkness,Comedy/Fantasy/Horror,Sam Raimi,Bruce Campbell/Embeth Davidtz
+657,The Hurt Locker,Drama/History/Thriller,Kathryn Bigelow,Jeremy Renner/Anthony Mackie
+658,Little Children,Drama/Romance,Todd Field,Kate Winslet/Jennifer Connelly
+659,The Fifth Element,Action/Adventure/Sci-Fi,Luc Besson,Bruce Willis/Milla Jovovich
+660,The Crow,Action/Drama/Fantasy,Alex Proyas,Brandon Lee/Michael Wincott
+661,Zatoichi,Action/Comedy/Crime,Takeshi Kitano,Takeshi Kitano/Tadanobu Asano
+662,Kung Fu Panda,Animation/Action/Adventure,Alessandro Carloni,Jack Black/Bryan Cranston
+663,The Others,Fantasy/Horror/Thriller,Alejandro Amenábar,Nicole Kidman/Christopher Eccleston
+664,The Jungle Book,Adventure/Drama/Family,Jon Favreau,Neel Sethi/Bill Murray
+665,Lethal Weapon,Action/Crime/Thriller,Richard Donner,Mel Gibson/Danny Glover
+666,13 Assassins,Action/Adventure/Drama,Takashi Miike,Kôji Yakusho/Takayuki Yamada
+667,The Skin I Live In,Crime/Drama/Thriller,Pedro Almodóvar,Antonio Banderas/Elena Anaya
+668,The Man Who Wasn't There,Crime/Drama,Joel Coen,Billy Bob Thornton/Frances McDormand
+669,A Fish Called Wanda,Comedy/Crime,Charles Crichton,John Cleese/Jamie Lee Curtis
+670,Fried Green Tomatoes,Drama,Jon Avnet,Kathy Bates/Jessica Tandy
+671,Blow,Biography/Crime/Drama,Ted Demme,Johnny Depp/Penélope Cruz
+672,A Few Good Men,Drama/Thriller,Rob Reiner,Tom Cruise/Jack Nicholson
+673,Dead Alive,Comedy/Fantasy/Horror,Peter Jackson,Timothy Balme/Diana Peñalver
+674,Sherlock Holmes,Action/Adventure/Crime,Guy Ritchie,Robert Downey Jr./Jude Law
+675,Volver,Comedy/Crime/Drama,Pedro Almodóvar,Penélope Cruz/Carmen Maura
+676,The Counterfeiters,Crime/Drama/War,Stefan Ruzowitzky,Karl Markovics/August Diehl
+677,Disconnect,Drama/Thriller,Henry Alex Rubin,Jason Bateman/Jonah Bobo
+678,The Naked Gun: From the Files of Police Squad!,Comedy/Crime,David Zucker,Leslie Nielsen/Priscilla Presley
+679,The Impossible,Drama/Thriller,J.A. Bayona,Naomi Watts/Ewan McGregor
+680,I Am Sam,Drama,Jessie Nelson,Sean Penn/Michelle Pfeiffer
+681,The Royal Tenenbaums,Comedy/Drama,Wes Anderson,Gene Hackman/Gwyneth Paltrow
+682,The Hunt for Red October,Action/Adventure/Thriller,John McTiernan,Sean Connery/Alec Baldwin
+683,Juno,Comedy/Drama,Jason Reitman,Ellen Page/Michael Cera
+684,The Thin Red Line,Drama/War,Terrence Malick,Jim Caviezel/Sean Penn
+685,Funny Games,Crime/Drama/Horror,Michael Haneke,Naomi Watts/Tim Roth
+686,Sideways,Adventure/Comedy/Drama,Alexander Payne,Paul Giamatti/Thomas Haden Church
+687,American Psycho,Crime/Drama,Mary Harron,Christian Bale/Justin Theroux
+688,Hugo,Adventure/Drama/Family,Martin Scorsese,Asa Butterfield/Chloë Grace Moretz
+689,"Lust, Caution (2007, Ang Lee)",Drama/Romance/Thriller,Ang Lee,Tony Chiu Wai Leung/Wei Tang
+690,Cloud Atlas,Drama/Sci-Fi,Tom Tykwer,Tom Hanks/Halle Berry
+691,Escape from Alcatraz,Biography/Crime/Drama,Don Siegel,Clint Eastwood/Patrick McGoohan
+692,Hoosiers,Drama/Sport,David Anspaugh,Gene Hackman/Barbara Hershey
+693,Mad Max 2: The Road Warrior,Action/Adventure/Sci-Fi,George Miller,Mel Gibson/Bruce Spence
+694,Harry Potter and the Goblet of Fire,Adventure/Family/Fantasy,Mike Newell,Daniel Radcliffe/Emma Watson
+695,The Guns of Navarone (1961),Action/Adventure/Drama,J. Lee Thompson,David Niven/Gregory Peck
+696,Robin Hood (1973),Animation/Adventure/Comedy,Wolfgang Reitherman,Brian Bedford/Phil Harris
+697,Equilibrium,Action/Drama/Sci-Fi,Kurt Wimmer,Christian Bale/Sean Bean
+698,The Reader,Drama/Romance,Stephen Daldry,Kate Winslet/Ralph Fiennes
+699,The Abyss,Adventure/Drama/Sci-Fi,James Cameron,Ed Harris/Mary Elizabeth Mastrantonio
+700,Hunger,Biography/Drama,Steve McQueen,Stuart Graham/Laine Megaw
+701,The Omen,Horror,Richard Donner,Gregory Peck/Lee Remick
+702,Tucker and Dale vs Evil,Comedy/Horror,Eli Craig,Tyler Labine/Alan Tudyk
+703,Falling Down,Crime/Drama/Thriller,Joel Schumacher,Michael Douglas/Robert Duvall
+704,High Fidelity,Comedy/Drama/Music,Stephen Frears,John Cusack/Iben Hjejle
+705,Field of Dreams (1989),Drama/Family/Fantasy,Phil Alden Robinson,Kevin Costner/James Earl Jones
+706,The Raid: Redemption,Action/Crime/Thriller,Gareth Evans,Iko Uwais/Ananda George
+707,Secondhand Lions,Comedy/Drama/Family,Tim McCanlies,Haley Joel Osment/Michael Caine
+708,Ip Man 2: Legend of the Grandmaster,Action/Biography/Drama,Wilson Yip,Donnie Yen/Xiaoming Huang
+709,Moneyball,Biography/Drama/Sport,Bennett Miller,Brad Pitt/Robin Wright
+710,Leaving Las Vegas,Drama/Romance,Mike Figgis,Nicolas Cage/Elisabeth Shue
+711,Dead Man Walking,Crime/Drama,Tim Robbins,Susan Sarandon/Sean Penn
+712,Collateral,Crime/Drama/Thriller,Michael Mann,Tom Cruise/Jamie Foxx
+713,The Evil Dead,Fantasy/Horror,Sam Raimi,Bruce Campbell/Ellen Sandweiss
+714,A Single Man,Drama/Romance,Tom Ford,Colin Firth/Julianne Moore
+715,An American Werewolf in London,Comedy/Fantasy/Horror,John Landis,David Naughton/Jenny Agutter
+716,The Little Mermaid,Animation/Family/Fantasy,Ron Clements,Jodi Benson/Rene Auberjonois
+717,Indiana Jones and the Temple of Doom,Action/Adventure,Steven Spielberg,Harrison Ford/Kate Capshaw
+718,The Town,Crime/Drama/Thriller,Ben Affleck,Ben Affleck/Rebecca Hall
+719,Of Mice and Men (1992 film),Drama,Gary Sinise,John Malkovich/Gary Sinise
+720,Midnight Run,Action/Comedy/Crime,Martin Brest,Robert De Niro/Charles Grodin
+721,Apollo 13 (1995),Adventure/Drama/History,Ron Howard,Tom Hanks/Bill Paxton
+722,Despicable Me 2,Animation/Adventure/Comedy,Pierre Coffin,Steve Carell/Kristen Wiig
+723,Enemy at the Gates,Drama/History/War,Jean-Jacques Annaud,Jude Law/Ed Harris
+724,The Assassination of Jesse James by the Coward Robert Ford,Biography/Crime/Drama,Andrew Dominik,Brad Pitt/Casey Affleck
+725,Die Hard: With a Vengeance,Action/Adventure/Thriller,John McTiernan,Bruce Willis/Jeremy Irons
+726,Boys Don't Cry,Biography/Crime/Drama,Kimberly Peirce,Hilary Swank/Chloë Sevigny
+727,The Great Debaters,Biography/Drama/Romance,Denzel Washington,Denzel Washington/Forest Whitaker
+728,The Piano,Drama/Music/Romance,Jane Campion,Holly Hunter/Harvey Keitel
+729,Interview with the Vampire,Drama/Fantasy/Horror,Neil Jordan,Brad Pitt/Tom Cruise
+730,Ghost Dog: The Way of the Samurai,Action/Crime/Drama,Jim Jarmusch,Forest Whitaker/Henry Silva
+731,"Planes, Trains and Automobiles",Comedy,John Hughes,Steve Martin/John Candy
+732,The Conjuring,Horror/Mystery/Thriller,James Wan,Patrick Wilson/Vera Farmiga
+733,Rise of the Planet of the Apes,Action/Drama/Sci-Fi,Rupert Wyatt,James Franco/Andy Serkis
+734,Ice Age,Animation/Adventure/Comedy,Chris Wedge,Denis Leary/John Leguizamo
+735,Batman,Action/Adventure,Tim Burton,Michael Keaton/Jack Nicholson
+736,42,Biography/Drama/Sport,Brian Helgeland,Chadwick Boseman/T.R. Knight
+737,House of Flying Daggers,Action/Adventure/Drama,Yimou Zhang,Ziyi Zhang/Takeshi Kaneshiro
+738,Headhunters,Crime/Drama/Thriller,Morten Tyldum,Aksel Hennie/Synnøve Macody Lund
+739,"Good Night, and Good Luck.",Biography/Drama/History,George Clooney,David Strathairn/George Clooney
+740,Pinocchio,Animation/Family/Fantasy,Norman Ferguson,Dickie Jones/Christian Rub
+741,The Natural,Drama/Sport,Barry Levinson,Robert Redford/Robert Duvall
+742,Tell No One,Crime/Drama/Mystery,Guillaume Canet,François Cluzet/Marie-Josée Croze
+743,The Wave,Action/Drama/Thriller,Roar Uthaug,Kristoffer Joner/Ane Dahl Torp
+744,The Secret Life of Walter Mitty,Adventure/Comedy/Drama,Ben Stiller,Ben Stiller/Kristen Wiig
+745,The Meaning of Life,Comedy/Fantasy/Musical,Terry Jones,John Cleese/Terry Gilliam
+746,The Hours,Drama/Romance,Stephen Daldry,Meryl Streep/Nicole Kidman
+747,Jacob's Ladder,Drama/Horror/Mystery,Adrian Lyne,Tim Robbins/Elizabeth Peña
+748,Thor: The Dark World,Action/Adventure/Fantasy,Alan Taylor,Chris Hemsworth/Natalie Portman
+749,Star Trek: First Contact,Action/Adventure/Drama,Jonathan Frakes,Patrick Stewart/Jonathan Frakes
+750,Straw Dogs,Crime/Drama/Thriller,Sam Peckinpah,Dustin Hoffman/Susan George
+751,August Rush,Drama/Music,Kirsten Sheridan,Freddie Highmore/Keri Russell
+752,Elizabeth (1998),Biography/Drama/History,Shekhar Kapur,Cate Blanchett/Geoffrey Rush
+753,Reign Over Me,Drama,Mike Binder,Adam Sandler/Don Cheadle
+754,American Splendor,Biography/Comedy/Drama,Shari Springer Berman,Paul Giamatti/Shari Springer Berman
+755,Life as a House,Drama,Irwin Winkler,Hayden Christensen/Kevin Kline
+756,Green Street Hooligans (2005),Crime/Drama/Sport,Lexi Alexander,Elijah Wood/Charlie Hunnam
+757,The Fisher King,Comedy/Drama/Fantasy,Terry Gilliam,Jeff Bridges/Robin Williams
+758,The Wind That Shakes the Barley,Drama/War,Ken Loach,Cillian Murphy/Pádraic Delaney
+759,A Simple Plan,Crime/Drama/Thriller,Sam Raimi,Bill Paxton/Billy Bob Thornton
+760,Marathon Man,Crime/Thriller,John Schlesinger,Dustin Hoffman/Laurence Olivier
+761,REC,Horror,Jaume Balagueró,Manuela Velasco/Ferran Terraza
+762,Scott Pilgrim vs. the World,Action/Comedy/Fantasy,Edgar Wright,Michael Cera/Mary Elizabeth Winstead
+763,Rudy,Biography/Drama/Sport,David Anspaugh,Sean Astin/Jon Favreau
+764,Jackie Brown,Crime/Thriller,Quentin Tarantino,Pam Grier/Samuel L. Jackson
+765,The Orphanage,Drama/Mystery/Thriller,J.A. Bayona,Belén Rueda/Fernando Cayo
+766,American Graffiti,Comedy/Drama/Music,George Lucas,Richard Dreyfuss/Ron Howard
+767,The Man Who Knew Too Much (1956),Drama/Thriller,Alfred Hitchcock,James Stewart/Doris Day
+768,Chaplin,Biography/Comedy/Drama,Richard Attenborough,Robert Downey Jr./Geraldine Chaplin
+769,Felon,Crime/Drama,Ric Roman Waugh,Stephen Dorff/Marisol Nichols
+770,The Hurricane,Biography/Drama/Sport,Norman Jewison,Denzel Washington/Vicellous Shannon
+771,The Ice Storm,Drama,Ang Lee,Kevin Kline/Joan Allen
+772,Maria Full of Grace,Crime/Drama,Joshua Marston,Catalina Sandino Moreno/Guilied Lopez
+773,The Painted Veil,Drama/Romance,John Curran,Naomi Watts/Edward Norton
+774,Doubt,Drama/Mystery,John Patrick Shanley,Meryl Streep/Philip Seymour Hoffman
+775,X2: X-Men United,Action/Adventure/Fantasy,Bryan Singer,Patrick Stewart/Hugh Jackman
+776,Perfume: The Story of a Murderer,Crime/Drama/Fantasy,Tom Tykwer,Ben Whishaw/Dustin Hoffman
+777,Quiz Show,Drama/History,Robert Redford,Ralph Fiennes/John Turturro
+778,National Lampoon's Christmas Vacation,Comedy/Family,Jeremiah S. Chechik,Chevy Chase/Beverly D'Angelo
+779,Gangs of New York (2002),Crime/Drama,Martin Scorsese,Leonardo DiCaprio/Cameron Diaz
+780,Everything is Illuminated,Comedy/Drama,Liev Schreiber,Elijah Wood/Eugene Hutz
+781,Sleepers,Crime/Drama/Thriller,Barry Levinson,Robert De Niro/Kevin Bacon
+782,Looper,Action/Crime/Drama,Rian Johnson,Joseph Gordon-Levitt/Bruce Willis
+783,Three Days of the Condor,Mystery/Thriller,Sydney Pollack,Robert Redford/Faye Dunaway
+784,To Catch a Thief,Crime/Mystery/Romance,Alfred Hitchcock,Cary Grant/Grace Kelly
+785,The Constant Gardener,Drama/Mystery/Romance,Fernando Meirelles,Ralph Fiennes/Rachel Weisz
+786,Miracle,Biography/Drama/History,Gavin O'Connor,Kurt Russell/Patricia Clarkson
+787,Rust and Bone,Drama/Romance,Jacques Audiard,Marion Cotillard/Matthias Schoenaerts
+788,Pi,Drama/Mystery/Thriller,Darren Aronofsky,Sean Gullette/Mark Margolis
+789,Sweeney Todd: The Demon Barber of Fleet Street,Drama/Horror/Musical,Tim Burton,Johnny Depp/Helena Bonham Carter
+790,The Life of David Gale,Crime/Drama/Thriller,Alan Parker,Kevin Spacey/Kate Winslet
+791,Pleasantville,Comedy/Drama/Fantasy,Gary Ross,Tobey Maguire/Jeff Daniels
+792,Best in Show,Comedy,Christopher Guest,Fred Willard/Eugene Levy
+793,RoboCop,Action/Crime/Sci-Fi,José Padilha,Joel Kinnaman/Gary Oldman
+794,Heavenly Creatures,Biography/Crime/Drama,Peter Jackson,Melanie Lynskey/Kate Winslet
+795,A Nightmare on Elm Street,Horror,Wes Craven,Heather Langenkamp/Johnny Depp
+796,Menace II Society,Crime/Drama/Thriller,Albert Hughes,Tyrin Turner/Larenz Tate
+797,Sherlock Holmes: A Game of Shadows,Action/Adventure/Crime,Guy Ritchie,Robert Downey Jr./Jude Law
+798,We Need to Talk About Kevin,Crime/Drama/Mystery,Lynne Ramsay,Tilda Swinton/John C. Reilly
+799,Malèna,Comedy/Drama/Romance,Giuseppe Tornatore,Monica Bellucci/Giuseppe Sulfaro
+800,The Fly,Drama/Horror/Sci-Fi,David Cronenberg,Jeff Goldblum/Geena Davis
+801,A History of Violence,Crime/Drama/Thriller,David Cronenberg,Viggo Mortensen/Maria Bello
+802,The Texas Chain Saw Massacre,Horror,Marcus Nispel,Jessica Biel/Jonathan Tucker
+803,Mud,Drama,Jeff Nichols,Matthew McConaughey/Tye Sheridan
+804,Buffalo '66,Comedy/Crime/Drama,Vincent Gallo,Vincent Gallo/Christina Ricci
+805,The Devil's Backbone,Drama/Fantasy/Horror,Guillermo del Toro,Marisa Paredes/Eduardo Noriega
+806,Open Range,Drama/Romance/Western,Kevin Costner,Kevin Costner/Robert Duvall
+807,The Bridges Of Madison County,Drama/Romance,Clint Eastwood,Clint Eastwood/Meryl Streep
+808,Ghost World,Comedy/Drama,Terry Zwigoff,Steve Buscemi/Thora Birch
+809,The Three Burials of Melquiades Estrada,Adventure/Crime/Drama,Tommy Lee Jones,Tommy Lee Jones/Barry Pepper
+810,Blue Jasmine,Drama,Woody Allen,Cate Blanchett/Alec Baldwin
+811,In the Loop,Comedy,Armando Iannucci,Tom Hollander/Peter Capaldi
+812,Freedom Writers,Biography/Crime/Drama,Richard LaGravenese,Hilary Swank/Imelda Staunton
+813,The Proposition,Crime/Drama/Western,John Hillcoat,Ray Winstone/Guy Pearce
+814,Brick,Action/Crime/Drama,Rian Johnson,Joseph Gordon-Levitt/Lukas Haas
+815,"The Adventures of Priscilla, Queen of the Desert",Comedy/Music,Stephan Elliott,Hugo Weaving/Guy Pearce
+816,Up in the Air,Drama/Romance,Jason Reitman,George Clooney/Vera Farmiga
+817,Clerks II,Comedy,Kevin Smith,Brian O'Halloran/Jeff Anderson
+818,From Russia with Love (Terence Young),Action/Adventure/Thriller,Terence Young,Sean Connery/Robert Shaw
+819,In the Bedroom,Crime/Drama,Todd Field,Tom Wilkinson/Sissy Spacek
+820,A Perfect World,Crime/Drama/Thriller,Clint Eastwood,Kevin Costner/Clint Eastwood
+821,Witness,Crime/Drama/Romance,Peter Weir,Harrison Ford/Kelly McGillis
+822,Babel,Drama,Alejandro G. Iñárritu,Brad Pitt/Cate Blanchett
+823,Transamerica,Adventure/Comedy/Drama,Duncan Tucker,Felicity Huffman/Kevin Zegers
+824,The Aviator (2004),Biography/Drama,Martin Scorsese,Leonardo DiCaprio/Cate Blanchett
+825,Lincoln,Biography/Drama/History,Steven Spielberg,Daniel Day-Lewis/Sally Field
+826,The Mission,Adventure/Drama/History,Roland Joffé,Robert De Niro/Jeremy Irons
+827,Biutiful,Drama/Romance,Alejandro G. Iñárritu,Javier Bardem/Maricel Álvarez
+828,Source Code,Mystery/Sci-Fi/Thriller,Duncan Jones,Jake Gyllenhaal/Michelle Monaghan
+829,Total Recall,Action/Adventure/Mystery,Len Wiseman,Colin Farrell/Bokeem Woodbine
+830,Say Anything...,Comedy/Drama/Romance,Cameron Crowe,John Cusack/Ione Skye
+831,Notes on a Scandal,Crime/Drama/Romance,Richard Eyre,Cate Blanchett/Judi Dench
+832,My Cousin Vinny,Comedy,Jonathan Lynn,Joe Pesci/Marisa Tomei
+833,2046,Drama/Romance/Sci-Fi,Kar-Wai Wong,Tony Chiu Wai Leung/Ziyi Zhang
+834,Across the Universe,Drama/Fantasy/Musical,Julie Taymor,Evan Rachel Wood/Jim Sturgess
+835,Legends of the Fall,Drama/Romance/War,Edward Zwick,Brad Pitt/Anthony Hopkins
+836,Monsters University,Animation/Adventure/Comedy,Dan Scanlon,Billy Crystal/John Goodman
+837,Bullitt,Action/Crime/Mystery,Peter Yates,Steve McQueen/Jacqueline Bisset
+838,Running Scared,Action/Crime/Drama,Wayne Kramer,Paul Walker/Cameron Bright
+839,Mean Streets,Crime/Drama/Thriller,Martin Scorsese,Robert De Niro/Harvey Keitel
+840,Suspiria,Horror/Mystery,Dario Argento,Jessica Harper/Stefania Casini
+841,"Crazy, Stupid, Love",Comedy/Drama/Romance,Glenn Ficarra,Steve Carell/Ryan Gosling
+842,The Devil's Advocate,Drama/Mystery/Thriller,Taylor Hackford,Keanu Reeves/Al Pacino
+843,"Bram Stoker's Dracula (1992, Francis Coppola)",Fantasy/Horror,Francis Ford Coppola,Gary Oldman/Winona Ryder
+844,Man on the Moon,Biography/Comedy/Drama,Milos Forman,Jim Carrey/Danny DeVito
+845,The Way Way Back,Comedy/Drama,Nat Faxon,Steve Carell/Toni Collette
+846,Raising Arizona,Comedy/Crime,Joel Coen,Nicolas Cage/Holly Hunter
+847,Much Ado About Nothing,Comedy/Drama/Romance,Joss Whedon,Alexis Denisof/Amy Acker
+848,Swingers,Comedy/Drama,Doug Liman,Vince Vaughn/Heather Graham
+849,Sleepy Hollow,Fantasy/Horror/Mystery,Tim Burton,Johnny Depp/Christina Ricci
+850,Take Shelter,Drama/Thriller,Jeff Nichols,Michael Shannon/Jessica Chastain
+851,Bound,Crime/Romance/Thriller,Lana Wachowski,Jennifer Tilly/Gina Gershon
+852,Bad Education,Comedy,Elliot Hegarty,Jack Whitehall/Charlie Wernham
+853,"Excalibur (1981, John Boorman)",Adventure/Drama/Fantasy,John Boorman,Nigel Terry/Helen Mirren
+854,Zero Dark Thirty,Drama/History/Thriller,Kathryn Bigelow,Jessica Chastain/Joel Edgerton
+855,Far from Heaven,Drama/Romance,Todd Haynes,Julianne Moore/Dennis Quaid
+856,Trading Places,Comedy,John Landis,Eddie Murphy/Dan Aykroyd
+857,Labyrinth,Adventure/Family/Fantasy,Jim Henson,David Bowie/Jennifer Connelly
+858,The Bucket List,Adventure/Comedy/Drama,Rob Reiner,Jack Nicholson/Morgan Freeman
+859,Les Misérables (1998 film),Crime/Drama/History,Bille August,Liam Neeson/Geoffrey Rush
+860,Alice in Wonderland (1951),Animation/Adventure/Family,Clyde Geronimi,Kathryn Beaumont/Ed Wynn
+861,La Femme Nikita,Action/Thriller,Luc Besson,Anne Parillaud/Marc Duret
+862,Mulan,Animation/Adventure/Family,Tony Bancroft,Ming-Na Wen/Eddie Murphy
+863,Harry Potter and the Half-Blood Prince,Adventure/Family/Fantasy,David Yates,Daniel Radcliffe/Emma Watson
+864,Terms of Endearment,Comedy/Drama,James L. Brooks,Shirley MacLaine/Debra Winger
+865,The NeverEnding Story,Adventure/Drama/Family,Wolfgang Petersen,Noah Hathaway/Barret Oliver
+866,Driving Miss Daisy,Drama,Bruce Beresford,Morgan Freeman/Jessica Tandy
+867,Blue Valentine,Drama/Romance,Derek Cianfrance,Ryan Gosling/Michelle Williams
+868,Dirty Pretty Things,Crime/Drama/Thriller,Stephen Frears,Chiwetel Ejiofor/Audrey Tautou
+869,Beetlejuice,Comedy/Fantasy,Tim Burton,Alec Baldwin/Geena Davis
+870,Pirate Radio,Comedy/Drama/Music,Richard Curtis,Philip Seymour Hoffman/Bill Nighy
+871,True Grit,Adventure/Drama/Western,Ethan Coen,Jeff Bridges/Matt Damon
+872,A Bridge Too Far,Drama/History/War,Richard Attenborough,Sean Connery/Ryan O'Neal
+873,Eraserhead,Fantasy/Horror,David Lynch,Jack Nance/Charlotte Stewart
+874,Wonder Boys,Comedy/Drama,Curtis Hanson,Michael Douglas/Tobey Maguire
+875,Arizona Dream,Comedy/Drama/Fantasy,Emir Kusturica,Johnny Depp/Jerry Lewis
+876,The Queen,Adventure/Comedy/Drama,Vikas Bahl,Kangana Ranaut/Rajkummar Rao
+877,Capote (2005),Biography/Crime/Drama,Bennett Miller,Philip Seymour Hoffman/Clifton Collins Jr.
+878,Chasing Amy,Comedy/Drama/Romance,Kevin Smith,Ben Affleck/Joey Lauren Adams
+879,The English Patient,Drama/Romance/War,Anthony Minghella,Ralph Fiennes/Juliette Binoche
+880,Precious,Drama,Lee Daniels,Gabourey Sidibe/Mo'Nique
+881,Harry Potter and the Order of the Phoenix,Adventure/Family/Fantasy,David Yates,Daniel Radcliffe/Emma Watson
+882,Deconstructing Harry (1997),Comedy,Woody Allen,Woody Allen/Judy Davis
+883,Dawn of the Dead 2004,Action/Horror/Thriller,Zack Snyder,Sarah Polley/Ving Rhames
+884,The Squid and the Whale,Comedy/Drama,Noah Baumbach,Owen Kline/Jeff Daniels
+885,Vacation,Adventure/Comedy,John Francis Daley,Ed Helms/Christina Applegate
+886,X-Men,Action/Adventure/Sci-Fi,Bryan Singer,Patrick Stewart/Hugh Jackman
+887,My Sister's Keeper,Drama,Nick Cassavetes,Cameron Diaz/Abigail Breslin
+888,Final Fantasy VII: Advent Children,Animation/Action/Adventure,Tetsuya Nomura,Takahiro Sakurai/Ayumi Itô
+889,Harry Potter and the Sorcerer's Stone,Adventure/Family/Fantasy,Chris Columbus,Daniel Radcliffe/Rupert Grint
+890,Red Cliff,Action/Adventure/Drama,John Woo,Tony Chiu Wai Leung/Takeshi Kaneshiro
+891,Bambi,Animation/Drama/Family,James Algar,Hardie Albright/Stan Alexander
+892,The Cider House Rules (1999),Drama/Romance,Lasse Hallström,Tobey Maguire/Charlize Theron
+893,Poltergeist,Fantasy/Horror,Tobe Hooper,JoBeth Williams/Heather O'Rourke
+894,Wristcutters: A Love Story,Comedy/Drama/Fantasy,Goran Dukic,Patrick Fugit/Shea Whigham
+895,Spider-Man 2,Action/Adventure,Sam Raimi,Tobey Maguire/Kirsten Dunst
+896,Mr. Brooks,Crime/Drama/Thriller,Bruce A. Evans,Kevin Costner/Demi Moore
+897,Corpse Bride,Animation/Drama/Family,Tim Burton,Johnny Depp/Helena Bonham Carter
+898,The Rock (1996),Action/Adventure/Thriller,Michael Bay,Sean Connery/Nicolas Cage
+899,Iron Man 3,Action/Adventure/Sci-Fi,Shane Black,Robert Downey Jr./Guy Pearce
+900,Death at a Funeral,Comedy,Frank Oz,Matthew Macfadyen/Peter Dinklage
+901,Don't Look Now,Drama/Horror/Thriller,Nicolas Roeg,Julie Christie/Donald Sutherland
+902,Tootsie,Comedy/Drama/Romance,Sydney Pollack,Dustin Hoffman/Jessica Lange
+903,Master and Commander: The Far Side of the World (2003),Action/Adventure/Drama,Peter Weir,Russell Crowe/Paul Bettany
+904,Frida,Biography/Drama/Romance,Julie Taymor,Salma Hayek/Alfred Molina
+905,Layer Cake,Crime/Drama/Thriller,Matthew Vaughn,Daniel Craig/Sienna Miller
+906,Lady and the Tramp,Animation/Adventure/Comedy,Clyde Geronimi,Barbara Luddy/Larry Roberts
+907,The Place Beyond the Pines,Crime/Drama/Thriller,Derek Cianfrance,Ryan Gosling/Bradley Cooper
+908,Cube,Mystery/Sci-Fi/Thriller,Vincenzo Natali,Nicole de Boer/Maurice Dean Wint
+909,Shallow Grave,Crime/Thriller,Danny Boyle,Kerry Fox/Christopher Eccleston
+910,Irreversible,Crime/Drama/Mystery,Gaspar Noé,Monica Bellucci/Vincent Cassel
+911,The Adventures of Tintin: The Secret of the Unicorn (2011),Animation/Action/Adventure,Steven Spielberg,Jamie Bell/Andy Serkis
+912,Limitless,Mystery/Sci-Fi/Thriller,Neil Burger,Bradley Cooper/Anna Friel
+913,Lars and the Real Girl,Comedy/Drama/Romance,Craig Gillespie,Ryan Gosling/Emily Mortimer
+914,Wall Street,Crime/Drama,Oliver Stone,Charlie Sheen/Michael Douglas
+915,Rounders,Crime/Drama,John Dahl,Matt Damon/Edward Norton
+916,Rescue Dawn,Adventure/Biography/Drama,Werner Herzog,Christian Bale/Steve Zahn
+917,Carrie,Drama/Fantasy/Horror,Kimberly Peirce,Chloë Grace Moretz/Julianne Moore
+918,Heathers,Comedy/Crime/Drama,Michael Lehmann,Winona Ryder/Christian Slater
+919,Easy Rider,Adventure/Drama,Dennis Hopper,Peter Fonda/Dennis Hopper
+920,The Animatrix,Animation/Action/Adventure,Peter Chung,Clayton Watson/Akio Ôtsuka
+921,Me and You and Everyone We Know,Comedy/Drama,Miranda July,John Hawkes/Miranda July
+922,The Next Three Days,Crime/Drama/Romance,Paul Haggis,Russell Crowe/Elizabeth Banks
+923,Law Abiding Citizen,Crime/Drama/Thriller,F. Gary Gray,Gerard Butler/Jamie Foxx
+924,Black Dynamite,Action/Comedy,Scott Sanders,Arsenio Hall/Tommy Davidson
+925,The Descendants,Comedy/Drama,Alexander Payne,George Clooney/Shailene Woodley
+926,The Piano Teacher,Drama/Music/Romance,Michael Haneke,Isabelle Huppert/Annie Girardot
+927,Home Alone,Comedy/Family,Chris Columbus,Macaulay Culkin/Joe Pesci
+928,Jane Eyre,Drama/Romance,Cary Joji Fukunaga,Mia Wasikowska/Michael Fassbender
+929,"Paris, je t'aime",Comedy/Drama/Romance,Olivier Assayas,Juliette Binoche/Leonor Watling
+930,The Fountain,Drama/Sci-Fi,Darren Aronofsky,Hugh Jackman/Rachel Weisz
+931,Quills,Biography/Drama,Philip Kaufman,Geoffrey Rush/Kate Winslet
+932,Caddyshack,Comedy/Sport,Harold Ramis,Chevy Chase/Rodney Dangerfield
+933,The Rocky Horror Picture Show,Comedy/Horror/Musical,Kenny Ortega,Reeve Carney/Tim Curry
+934,Dogma,Adventure/Comedy/Drama,Kevin Smith,Ben Affleck/Matt Damon
+935,Revolutionary Road,Drama/Romance,Sam Mendes,Leonardo DiCaprio/Kate Winslet
+936,The Science of Sleep,Comedy/Drama/Fantasy,Michel Gondry,Gael García Bernal/Charlotte Gainsbourg
+937,Invasion of the Body Snatchers,Horror/Sci-Fi,Philip Kaufman,Donald Sutherland/Brooke Adams
+938,Back to the Future Part III,Action/Adventure/Comedy,Robert Zemeckis,Michael J. Fox/Christopher Lloyd
+939,Angel Heart,Horror/Mystery/Thriller,Alan Parker,Mickey Rourke/Robert De Niro
+940,Mission: Impossible – Ghost Protocol,Action/Adventure/Thriller,Brad Bird,Tom Cruise/Jeremy Renner
+941,Contact,Drama/Mystery/Sci-Fi,Robert Zemeckis,Jodie Foster/Matthew McConaughey
+942,Sleeping Beauty,Drama/Romance,Julia Leigh,Emily Browning/Rachael Blake
+943,Invictus,Biography/Drama/History,Clint Eastwood,Morgan Freeman/Matt Damon
+944,Peter Pan,Adventure/Family/Fantasy,P.J. Hogan,Jeremy Sumpter/Jason Isaacs
+945,The Hudsucker Proxy,Comedy/Fantasy,Joel Coen,Tim Robbins/Paul Newman
+946,Seabiscuit,Drama/History/Sport,Gary Ross,Tobey Maguire/Jeff Bridges
+947,Kung Fu Panda 2,Animation/Action/Adventure,Jennifer Yuh Nelson,Jack Black/Angelina Jolie
+948,Frailty,Crime/Drama/Thriller,Bill Paxton,Bill Paxton/Matthew McConaughey
+949,Superman,Action/Adventure/Drama,Richard Donner,Christopher Reeve/Margot Kidder
+950,K-PAX,Drama/Mystery/Sci-Fi,Iain Softley,Kevin Spacey/Jeff Bridges
+951,"Synecdoche, New York",Comedy/Drama,Charlie Kaufman,Philip Seymour Hoffman/Samantha Morton
+952,The Way Back,Adventure/Biography/Drama,Peter Weir,Jim Sturgess/Ed Harris
+953,Punch-Drunk Love (2002),Comedy/Drama/Romance,Paul Thomas Anderson,Adam Sandler/Emily Watson
+954,A Time to Kill,Crime/Drama/Thriller,Joel Schumacher,Matthew McConaughey/Sandra Bullock
+955,Closer,Drama/Romance,Mike Nichols,Natalie Portman/Jude Law
+956,Ring,Horror/Mystery,Gore Verbinski,Naomi Watts/Martin Henderson
+957,Borat: Cultural Learnings of America for Make Benefit Glorious Nation...,Comedy,Larry Charles,Sacha Baron Cohen/Ken Davitian
+958,Crazy Heart,Drama/Music/Romance,Scott Cooper,Jeff Bridges/Maggie Gyllenhaal
+959,Frequency,Crime/Drama/Mystery,Gregory Hoblit,Dennis Quaid/Jim Caviezel
+960,Sleeper (1973),Comedy/Sci-Fi,Woody Allen,Woody Allen/Diane Keaton
+961,The Lincoln Lawyer,Crime/Drama/Thriller,Brad Furman,Matthew McConaughey/Marisa Tomei
+962,Michael Clayton,Crime/Drama/Thriller,Tony Gilroy,George Clooney/Tilda Swinton
+963,Matchstick Men,Crime/Drama/Thriller,Ridley Scott,Nicolas Cage/Alison Lohman
+964,RockNRolla,Action/Crime/Thriller,Guy Ritchie,Gerard Butler/Tom Wilkinson
+965,The Crying Game,Crime/Drama/Romance,Neil Jordan,Stephen Rea/Jaye Davidson
+966,An Education,Drama,Lone Scherfig,Carey Mulligan/Peter Sarsgaard
+967,The Emperor's New Groove,Animation/Adventure/Comedy,Mark Dindal,David Spade/John Goodman
+968,Beasts of the Southern Wild,Drama/Fantasy,Benh Zeitlin,Quvenzhané Wallis/Dwight Henry
+969,Videodrome,Horror/Mystery/Sci-Fi,David Cronenberg,James Woods/Debbie Harry
+970,The Talented Mr. Ripley,Crime/Drama/Thriller,Anthony Minghella,Matt Damon/Gwyneth Paltrow
+971,Dumbo,Animation/Drama/Family,Samuel Armstrong,Sterling Holloway/Edward Brophy
+972,Flight,Drama/Thriller,Robert Zemeckis,Denzel Washington/Nadine Velazquez
+973,Murder on the Orient Express (1974 film),Crime/Drama/Mystery,Sidney Lumet,Albert Finney/Lauren Bacall
+974,Animal Kingdom,Crime/Drama/Thriller,David Michôd,James Frecheville/Guy Pearce
+975,Megamind,Animation/Action/Comedy,Tom McGrath,Will Ferrell/Jonah Hill
+976,Fish Tank,Drama,Andrea Arnold,Katie Jarvis/Michael Fassbender
+977,Gosford Park,Comedy/Drama/Mystery,Robert Altman,Maggie Smith/Ryan Phillippe
+978,Cinderella,Drama/Family/Fantasy,Kenneth Branagh,Lily James/Cate Blanchett
+979,Cape Fear,Crime/Thriller,Martin Scorsese,Robert De Niro/Nick Nolte
+980,Chocolat,Drama/Romance,Lasse Hallström,Juliette Binoche/Judi Dench
+981,Beverly Hills Cop,Action/Comedy/Crime,Martin Brest,Eddie Murphy/Judge Reinhold
+982,Sunshine,Adventure/Sci-Fi/Thriller,Danny Boyle,Cillian Murphy/Rose Byrne
+983,Monster,Biography/Crime/Drama,Patty Jenkins,Charlize Theron/Christina Ricci
+984,Rango,Animation/Adventure/Comedy,Gore Verbinski,Johnny Depp/Isla Fisher
+985,Dr. No,Action/Adventure/Thriller,Terence Young,Sean Connery/Ursula Andress
