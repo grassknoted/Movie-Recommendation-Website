@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>
+      Movie Website
+  </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" href="{{ url_for('static', filename='styles/Assets/icon.png') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/IndexStyle.css') }}">
+  <style type="text/css">
+    /* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+  </style>
+
+  <script src = "{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/Page_Functionality.js') }}"></script>
+  <script type="text/javascript">
+    function foo(){
+      arr=document.getElementsByTagName('input');
+      $.ajax({
+        type:'POST',
+        url:"/recommendation",
+        contentType:'application/json;charset=UTF-8',
+        dataType:'json',
+        data: JSON.stringify({'like1':arr[0].value, 'like2':arr[1].value, 'like3':arr[2].value, 'dislike1': arr[3].value, 'dislike2': arr[4].value, 'dislike3': arr[5].value}),
+        success: function(response){
+          console.log(response)
+          for(i=0;i<10;i++){
+            var div=document.createElement('div');
+            var img=document.createElement('img');
+            var a=document.createElement('a');
+            var p=document.createElement('p');
+            arr=response[i];
+            img.setAttribute("src",arr[4]);
+            div.appendChild(img);
+            p.innerHTML=arr[0]+" | "+arr[1]+" | "+arr[2]+" | "+arr[3];
+            div.appendChild(p);
+            a.setAttribute("href",arr[5]);
+            a.innerHTML="Watch Trailer"
+            div.appendChild(a);
+            document.body.appendChild(div);
+          }
+        },
+        error: function(error){
+          console.log(error);
+        }
+      });
+    }
+  </script>
+
+</head>
+
+<body>
+  <script src = "{{ url_for('static', filename='js/Autocomplete.js') }}"></script>
+  <h1>Likes:</h1><br>
+  <input list="movielist" class="recsearch" id="recsearch" type="text" name="like1" placeholder="Search.."><br>
+  <input list="movielist" class="recsearch" id="recsearch" type="text" name="like2" placeholder="Search.."><br>
+  <input list="movielist" class="recsearch" id="recsearch" type="text" name="like3" placeholder="Search.."><br><br>
+  <h1>Dislikes: </h1><br>
+  <input list="movielist" class="recsearch" id="recsearch" type="text" name="dislike1" placeholder="Search.."><br>
+  <input list="movielist" class="recsearch" id="recsearch" type="text" name="dislike2" placeholder="Search.."><br>
+  <input list="movielist" class="recsearch" id="recsearch" type="text" name="dislike3" placeholder="Search.."><br>
+  <button name="submit" type="submit" id="contact-submit" data-submit="...Sending" onclick="foo();">Submit</button>
+</body>
+
+</html>

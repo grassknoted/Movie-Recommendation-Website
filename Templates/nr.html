@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>
+      Movie Website
+  </title>
+
+  <style>
+    @font-face {
+      font-family: 'roboto';
+      src: url("{{ url_for('static', filename='styles/Assets/Roboto-Regular.ttf') }}") format("truetype");
+    }
+  </style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" href="{{ url_for('static', filename='styles/Assets/icon.png') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/nr.css') }}">
+
+  <script src = "{{ url_for('static', filename='js/jQuery.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/Page_Functionality.js') }}"></script>
+  <script type="text/javascript">
+  	i=0;
+    function doit(){
+      var name=document.getElementById('search').value;
+      $.ajax({
+        type: 'POST',
+        url: '/node',
+        contentType:'application/json;charset=UTF-8',
+        dataType:'json',
+        data: JSON.stringify({'name':name}),
+        success: function(response){
+          console.log(response);
+          first=response[i];
+          div=document.getElementById('yo');
+          div.style.display="block";
+          div.getElementsByTagName('img')[0].src=first[4];
+          div.getElementsByTagName('a')[0].href=first[5];
+          p=div.getElementsByTagName('p');
+          p[0].innerHTML="Genre : "+first[1];
+          p[1].innerHTML="Director : "+first[2];
+          p[2].innerHTML="Cast : "+first[3];
+          node_i=document.getElementById('node');
+          node_i.setAttribute("class","1");
+          node_i_span=document.createElement('span');
+          node_i_span.id="myPopup";
+          node_i_span.class="popuptext";
+          node_i_span.innerHTML=first[0];
+          node_i.appendChild(node_i_span);
+          i=i+1;
+        },
+        error: function(error){
+          console.log(error);
+        }
+      })
+    }
+    $(document).keypress(function(event){
+    if(event.keyCode == 13){
+      doit();
+    }
+});
+  </script>
+
+</head>
+
+<body style="background-image: url('{{ url_for('static', filename='styles/Assets/grid.jpg') }}');">
+
+  <div class="sidebar">
+    <a href="{{ url_for('index') }}"><img class="logo" style="max-width: 140px; max-height: 209px;" src="{{ url_for('static', filename='styles/Assets/logo.png') }}" alt="Logo"></a>
+    <div class="searchwrapper" style="float: left;">
+        <input id="search" name="search" type="text" placeholder="Enter a movie"><input id="search_submit" type="submit" style="background-size: cover; background-image: url('{{ url_for('static', filename='styles/Assets/search_icon.png') }}');">
+      <div>
+    </div>
+  </div>
+  <div class="card" id="yo">
+    <div class="img-b"><img alt="Movie Recommendation 1" class="moviepicture"></div>
+    <p class="director m1director">Director: Director Name bro</p>
+    <p class="genre">Genre: Enter Genre here bro</p>
+    <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+    <a href="#" class="myButton">Watch Trailer</a>
+  </div>
+  </div>
+
+  <i  id="node" > </i>
+  <script src = "{{ url_for('static', filename='js/jquery.svg.js') }}"></script>
+  <script>
+  $("#mydiv").drawLine(20,50,453,40);</script>
+  <script src = "{{ url_for('static', filename='js/jquery.drawinglibrary.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/nr.js') }}"></script>
+
+</body>
+
+</html>

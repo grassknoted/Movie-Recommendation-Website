@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>
+      Movie Website
+  </title>
+
+  <style>
+    @font-face {
+      font-family: 'roboto';
+      src: url("{{ url_for('static', filename='styles/Assets/Roboto-Regular.ttf') }}") format("truetype");
+    }
+  </style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" href="{{ url_for('static', filename='styles/Assets/icon.png') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/is.css') }}">
+
+  <script src = "{{ url_for('static', filename='js/jQuery.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/Page_FunctionalityH.js') }}"></script>
+
+</head>
+
+<body style="max-width:100vw; background-color: #EEF2E2;">
+  <script src = "{{ url_for('static', filename='js/Autocomplete.js') }}"></script>
+  <script>
+  function my() {
+  var popup = document.getElementById('myPopup');
+  popup.classList.toggle('show');
+  }
+  </script>
+  <span id="top"><span>
+  <div class="navbar-container">
+    <header>
+      <a href="#top"><img class="logo-image" src="{{ url_for('static', filename='styles/Assets/logo.png') }}" alt="Logo Here"></a>
+      <ul>
+        <a href = "#top"><li ></i> Home</li></a>
+        <a href = "#aboutus"><li ></i> About</li></a>
+        <a href = "#contactus"><li ></i> Contact</li></a>
+      </ul>
+    </header>
+  </div>
+  <div class="main_home" style="background-size: cover;background-image: url('{{ url_for('static', filename='styles/Assets/Screenshot_0.jpg') }}');">
+    <h1 class="main_title" style="font-family: 'roboto';" >Movie Website Name.</h1><br>
+    <h1 class="main_title arrow" style="font-family: 'roboto';" ><a href="#slideshow">↓</a></h1>
+  </div>
+  <div class="divider"></div>
+  <span id="slideshow" ></span>
+  <div class="navbar-divider" ></div>
+  <div class ="parent" style=" background-attachment: fixed;">
+
+  <!--<div class="slideshow-container" >
+    <div class="mySlides" style="background-color: #F38181;">
+      <input list="movielist" class="recsearch" id="recsearch" type="text" name="search" placeholder="Search.." onfocus="pauseSlides()" onblur="resumeSlides()">
+    </div>
+    <div class="mySlides" style="background-color: grey;"></div>
+    <div class="mySlides" style="background-color:black;"></div>
+    <div class="mySlides" style="background-color: #F38181;"></div>
+    <div class="mySlides" style="background-color: grey;"></div>
+    <div class="dots" style="text-align:center">
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
+  </div>-->
+  <div class="divider"></div>
+  <div class="aboutus" id="aboutus">
+        <p> MovieRec is a website made for the average movie viewer. </p>
+    <br><p style="	margin-left: 5vw; margin-right: 5vw; next-align: justify; text-justify: inter-word;"> Our recommendation systems recommend movies the user is guarenteed to like, predicted by
+      <i class="popup" onmouseover="my();" onmouseleave="my();" >Machine Learning<span class="popuptext" style="font-size: 20px;" id="myPopup">Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed</span></i> and
+    Decision Tree Algorithms </p>
+    <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="{{ url_for('static', filename='styles/Assets/machinelearning.png') }}" alt="Machine Learning" class="mlp" ></a><p class="mlpt"> Machine Learning</p>
+      <a href="https://en.wikipedia.org/wiki/Decision_tree_learning" target="_blank"><img src="{{ url_for('static', filename='styles/Assets/clustering.png') }}" alt="Decision Tree Algorithm" class="dt" ></a><p class="dtt"> Decision Tree Algorithm</p>
+  </div>
+  <div class="divider"></div>
+  <div class="systems">
+    <div style=" background-image: url('{{ url_for('static', filename='styles/Assets/sys3.jpg') }}'); " id="sys1"><div class="sys1i"> Looking for Random Movies to watch?<br> Have a look at our Top 1000 List! <a href="{{ url_for('top1000') }}" target="_blank"><img class="nimg" src="{{ url_for('static', filename='styles/Assets/list.png') }}" alt="List"><p class="nr" style="margin-left:58vw;">Top 1000 List</p></a></div></div>
+    <div style=" background-image: url('{{ url_for('static', filename='styles/Assets/sys1.jpg') }}'); " id="sys1"><div class="sys2i"> Don't know which upcoming movie you would like? We'll recommend an upcoming movie you're guarenteed to love!<a href="{{ url_for('noder') }}" target="_blank"><img class="nimg" src="{{ url_for('static', filename='styles/Assets/nodes.png') }}" alt="Nodes"><p class="nr">Nodal Recommendation</p></a></div></div>
+    <div style=" background-image: url('{{ url_for('static', filename='styles/Assets/sys2.jpg') }}'); " id="sys1"><div class="sys3i"> Have a favourite movie?<br> Check it's ranking in our Top 250 List! <a href="{{ url_for('top250') }}" target="_blank"><img class="nimg" src="{{ url_for('static', filename='styles/Assets/star.png') }}" alt="List"><p class="nr" style="margin-left:58vw;">Top 250 List</p></a></div></div>
+    <div style=" background-image: url('{{ url_for('static', filename='styles/Assets/sys4.jpg') }}'); " id="sys1"><div class="sys3i"> Tell us a little about your Movie Preferences<br>We'll recommend Class movie you're sure to love! <a href="{{ url_for('recommend') }}" target="_blank"><img class="nimg" src="{{ url_for('static', filename='styles/Assets/movie.png') }}" alt="List"><p class="nr" style="margin-left:58vw;">Advanced Recommendation</p></a></div></div>
+  </div>
+  <div class="divider"></div>
+  <div class="contact" id="contactus">
+    <div class="container">
+    <form id="contact" action="" method="post">
+      <h3>Get in Touch!</h3>
+      <h4>Contact us with your queries.</h4>
+      <fieldset>
+        <label for="name" style="float: left;"> Name: </label><input placeholder="Anas Khan" type="text" tabindex="1" name="name" required>
+      </fieldset>
+      <fieldset>
+        E-Mail: <input placeholder="whatever@website.com" type="email" tabindex="2" required>
+      </fieldset>
+      <fieldset>
+        Phone: <input placeholder="+91-9036-112331" type="tel" tabindex="3" required>
+      </fieldset>
+      <fieldset>
+        Subject: <input placeholder="Why you're contacting us" type="text" tabindex="4" required>
+      </fieldset>
+      <fieldset>
+        Message: <textarea placeholder="Type your Message Here.." tabindex="5" required></textarea>
+      </fieldset>
+      <fieldset>
+        <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+      </fieldset>
+    </form>
+
+
+  </div>
+  </div>
+  </div>
+
+</body>

@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>
+      Movie Website
+  </title>
+
+  <style>
+    @font-face {
+      font-family: 'roboto';
+      src: url("{{ url_for('static', filename='styles/Assets/Roboto-Regular.ttf') }}") format("truetype");
+    }
+  </style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" href="{{ url_for('static', filename='styles/Assets/icon.png') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/ar.css') }}">
+
+  <script src = "{{ url_for('static', filename='js/jQuery.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/Page_Functionality1.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/InputForms1.js') }}"></script>
+  <script type="text/javascript">
+    function foo(){
+      arr=document.getElementsByTagName('input');
+      $.ajax({
+        type:'POST',
+        url:"/recommend",
+        contentType:'application/json;charset=UTF-8',
+        dataType:'json',
+        data: JSON.stringify({'like1':arr[0].value, 'like2':arr[1].value, 'like3':arr[2].value, 'dislike1': arr[3].value, 'dislike2': arr[4].value, 'dislike3': arr[5].value}),
+        success: function(response){
+          console.log(response);
+          document.getElementsByClassName('postsearch')[0].style.display="block";
+          divs=document.getElementsByClassName('card');
+          for(i=0;i<6;i++){
+            arr=response[i];
+            divs[i].getElementsByTagName('img')[0].src=arr[4];
+            p=divs[i].getElementsByTagName('p');
+            p[0].innerHTML="Director : "+arr[2];
+            p[1].innerHTML="Cast : "+arr[3];
+            divs[i].getElementsByTagName('a')[0].href=arr[5];
+          }
+        },
+        error: function(error){
+          console.log(error);
+        }
+      });
+    }
+  </script>
+
+</head>
+
+<body style="background:#5BAAEC;">
+  <script src = "{{ url_for('static', filename='js/Autocomplete.js') }}"></script>
+
+  <div class="sep"></div>
+  <div class="presearch" style="max-height:100vh;">
+    <h1 class="main-heading">Help us recommend movies. </h1>
+      <h1 class="enter likes">Movies you like:</h1><br>
+      <div class="likeforms">
+        <div class="input-group">
+				<input type="text" id="recsearch1" class="m-input recsearch" list="movielist" onblur="leaveInput(this)" name="like1">
+				<label for="recsearch1">#1 Movie you Like</label>
+		  </div>
+		  <div class="input-group">
+				<input type="text" id="recsearch2" class="m-input recsearch" list="movielist" onblur="leaveInput(this)" name="like2">
+				<label for="recsearch2">#2 Movie you Like</label>
+		  </div>
+		  <div class="input-group">
+				<input type="text" id="recsearch3" class="m-input recsearch" list="movielist" onblur="leaveInput(this)" name="like3">
+				<label for="recsearch3">#3 Movie you Like</label>
+		  </div>
+      </div>
+      </div>
+      <h1 class = "enter dislikes">Movies you dislike:</h1><br>
+      <div class="dislikeforms">
+        <div class="input-group">
+        <input type="text" id="recsearch4" class="m-input recsearch" list="movielist" onblur="leaveInput(this)" name="dislike1">
+        <label for="recsearch1">#1 Movie you Like</label>
+      </div>
+      <div class="input-group">
+        <input type="text" id="recsearch5" class="m-input recsearch" list="movielist" onblur="leaveInput(this)" name="dislike2">
+        <label for="recsearch2">#2 Movie you Like</label>
+      </div>
+      <div class="input-group">
+        <input type="text" id="recsearch6" class="m-input recsearch" list="movielist" onblur="leaveInput(this)" name="dislike3">
+        <label for="recsearch3">#3 Movie you Like</label>
+      </div>
+      </div>
+    <button name="submit" class="btn" type="submit" id="contact-submit" data-submit="...Sending" onclick="foo();">Submit</button>
+  </div>
+
+  <div class="postsearch" style="display: none;">
+    <h1 class="main-heading"> Your recommended movies: </h1>
+    <div class="card card-1">
+      <img alt="Movie Recommendation 1" class="moviepicture">
+      <p class="director m1director">Director: Director Name bro</p><br>
+      <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+      <a href="#" class="myButton">Watch Trailer</a>
+    </div>
+    <div class="card card-2">
+      <img alt="Movie Recommendation 2" class="moviepicture">
+      <p class="director m1director">Director: Director Name bro</p><br>
+      <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+      <a href="#" class="myButton">Watch Trailer</a>
+    </div>
+    <div class="card card-3">
+      <img alt="Movie Recommendation 3" class="moviepicture">
+      <p class="director m1director">Director: Director Name bro</p><br>
+      <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+      <a href="#" class="myButton">Watch Trailer</a>
+    </div><br>
+    <div class="card card-4">
+      <img alt="Movie Recommendation 4" class="moviepicture">
+      <p class="director m1director">Director: Director Name bro</p><br>
+      <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+      <a href="#" class="myButton">Watch Trailer</a>
+    </div>
+    <div class="card card-5">
+      <img alt="Movie Recommendation 5" class="moviepicture">
+      <p class="director m1director">Director: Director Name bro</p><br>
+      <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+      <a href="#" class="myButton">Watch Trailer</a>
+    </div>
+    <div class="card card-6">
+      <img alt="Movie Recommendation 6" class="moviepicture">
+      <p class="director m1director">Director: Director Name bro</p><br>
+      <p class="cast m1cast"> Cast: Actor 1, Actor 2</p>
+      <a href="#" class="myButton">Watch Trailer</a>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>
+      Movie Website
+  </title>
+
+  <style>
+    @font-face {
+      font-family: 'roboto';
+      src: url("{{ url_for('static', filename='styles/Assets/Roboto-Regular.ttf') }}") format("truetype");
+    }
+
+  </style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" href="{{ url_for('static',filename='styles/Assets/icon.png') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/IndexStyle.css') }}">
+
+  <script src = "{{ url_for('static', filename='js/jQuery.js') }}"></script>
+  <script src = "{{ url_for('static', filename='js/Page_Functionality2.js') }}"></script>
+
+</head>
+
+<body>
+  <script src = "{{ url_for('static', filename='js/Autocomplete.js') }}"></script>
+  <script>
+  function my() {
+  var popup = document.getElementById('myPopup');
+  popup.classList.toggle('show');
+  }
+  </script>
+
+  <span id="top"><span>
+  <div class="navbar-container">
+    <header>
+      <a href="#top"><img class="logo-image" src="{{ url_for('static', filename='styles/Assets/logo.png') }}" alt="Logo Here"></a>
+      <ul>
+        <a href = "#top"><li ></i> Home</li></a>
+        <a href = "#aboutus"><li ></i> About</li></a>
+        <a href = "#contactus"><li ></i> Contact</li></a>
+      </ul>
+    </header>
+  </div>
+  <div class="main_home" style="background-image: url('{{ url_for('static', filename='styles/Assets/main_b.jpg') }}');">
+    <h1 class="main_title" style="font-family: 'roboto';" >Movie Website Name.</h1><br></br>
+    <h1 class="main_title arrow" style="font-family: 'roboto';" ><a href="#slideshow">&#11163;</a></h1>
+  </div>
+  <div class="divider"></div>
+  <span id="slideshow" ></span>
+  <div class="navbar-divider" ></div>
+  <div class ="parent" style=" background-attachment: fixed;">
+
+  <div class="slideshow-container" >
+    <div class="mySlides" style="background-color: #F38181;">
+      <input list="movielist" class="recsearch" id="recsearch" type="text" name="search" placeholder="Search..">
+    </div>
+    <div class="mySlides" style="background-color: grey;"></div>
+    <div class="mySlides" style="background-color:black;"></div>
+    <div class="mySlides" style="background-color: #F38181;"></div>
+    <div class="mySlides" style="background-color: grey;"></div>
+    <div class="dots" style="text-align:center">
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
+  </div>
+  <div class="navbar-divider end"></div>
+  <div class="divider"></div>
+  <div class="aboutus">
+    <span id="aboutus"></span>
+    <p> Enter stuff about website and <i class="popup" onmouseover="my();" onmouseleave="my();" >Decision Tree Algorithm
+  <span class="popuptext" style="font-size: 30px;" id="myPopup">A decision tree is a flow-chart-like structure, where each branch represents the outcome of a test.</span></i> here. </p>
+    <p> Stuff stuff Stuff </p>
+    <p> Stuff stuff Stuff </p>
+  </div>
+  <div class="divider"></div>
+  <div class="systems"></div>
+  <div class="divider"></div>
+  <div class="contact">
+    <div class="container">
+    <form id="contact" action="" method="post">
+      <h3>Get in Touch!</h3>
+      <h4>Contact us with your queries.</h4>
+      <fieldset>
+        <label for="name" style="float: left;"> Name: </label><input placeholder="Anas Khan" type="text" tabindex="1" name="name" required autofocus>
+      </fieldset>
+      <fieldset>
+        E-Mail: <input placeholder="whatever@website.com" type="email" tabindex="2" required>
+      </fieldset>
+      <fieldset>
+        Phone: <input placeholder="+91-9036-112331" type="tel" tabindex="3" required>
+      </fieldset>
+      <fieldset>
+        Subject: <input placeholder="Why you're contacting us" type="text" tabindex="4" required>
+      </fieldset>
+      <fieldset>
+        Message: <textarea placeholder="Type your Message Here.." tabindex="5" required></textarea>
+      </fieldset>
+      <fieldset>
+        <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+      </fieldset>
+    </form>
+
+
+  </div>
+  </div>
+  </div>
+
+</body>
